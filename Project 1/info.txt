@@ -1,0 +1,7 @@
+
+website to scrap      : https://www.goodreads.com/list/show/1.Best_Books_Ever
+
+chrome driver url     : https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.110/win64/chromedriver-win64.zip
+
+selenium documentation: https://selenium-python.readthedocs.io/
+
