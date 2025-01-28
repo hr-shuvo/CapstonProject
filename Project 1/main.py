@@ -35,35 +35,39 @@ def get_book_details(book):
 
 def main():
     url = 'https://www.goodreads.com/list/show/1.Best_Books_Ever'
-
-    driver = webdriver.Chrome()
-    driver.get(url=url)
+      
 
     columns = ['Rank', 'Title', 'Author', 'Rating']
 
-    data_table = driver.find_element(By.ID, 'all_votes')
+    for pageId in range(1, 10):
+        siteUrl = f'{url}?page={pageId}'
 
-    table_body = data_table.find_element(By.XPATH, './table/tbody')
+        driver = webdriver.Chrome()  
+        driver.get(url=siteUrl)
 
-    rows = table_body.find_elements(By.XPATH, './tr')
+        data_table = driver.find_element(By.ID, 'all_votes')
+        table_body = data_table.find_element(By.XPATH, './table/tbody')
+        rows = table_body.find_elements(By.XPATH, './tr')
+
+        for idx, row in enumerate(rows):
+            book_details.append(get_book_details(row))
+
+        print(f'---------> page: {pageId}, different types of length (tr): ', unique_lengths)
+
+        if pageId == 2:
+            break
+
+        driver.close()
 
 
-    for idx, row in enumerate(rows):
-        book_details.append(get_book_details(row))
-
-    # print('different types of length (tr): ', unique_lengths)
 
 
     df = pd.DataFrame(data=book_details, columns=columns)
     print(df.head())
-    df.to_csv('data.csv', index=False)
-
-    
+    df.to_csv('data.csv', index=False)    
 
 
 
-    time.sleep(10)
-    driver.close()
 
 
 
