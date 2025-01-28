@@ -1,201 +1,1001 @@
-Rank,Title,Author,Rating
-1,"The Hunger Games (The Hunger Games, #1)",by Suzanne Collins,"4.34 avg rating — 9,228,147 ratings"
-2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",by J.K. Rowling,"4.50 avg rating — 3,584,208 ratings"
-3,Pride and Prejudice,by Jane Austen,"4.29 avg rating — 4,479,650 ratings"
-4,To Kill a Mockingbird,by Harper Lee,"4.26 avg rating — 6,507,320 ratings"
-5,The Book Thief,by Markus Zusak (Goodreads Author),"4.39 avg rating — 2,722,160 ratings"
-6,"Twilight (The Twilight Saga, #1)",by Stephenie Meyer,"3.66 avg rating — 6,945,969 ratings"
-7,Animal Farm,by George Orwell,"4.00 avg rating — 4,171,756 ratings"
-8,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,by J.R.R. Tolkien,"4.61 avg rating — 138,896 ratings"
-9,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",by C.S. Lewis,"4.28 avg rating — 681,182 ratings"
-10,The Fault in Our Stars,by John Green (Goodreads Author),"4.13 avg rating — 5,438,695 ratings"
-11,The Picture of Dorian Gray,by Oscar Wilde,"4.13 avg rating — 1,691,684 ratings"
-12,The Giving Tree,by Shel Silverstein,"4.38 avg rating — 1,182,130 ratings"
-13,Wuthering Heights,by Emily Brontë,"3.90 avg rating — 1,907,894 ratings"
-14,Gone with the Wind,by Margaret Mitchell,"4.31 avg rating — 1,243,601 ratings"
-15,"The Lightning Thief (Percy Jackson and the Olympians, #1)",by Rick Riordan (Goodreads Author),"4.31 avg rating — 3,233,631 ratings"
-16,The Perks of Being a Wallflower,by Stephen Chbosky,"4.23 avg rating — 1,895,696 ratings"
-17,Jane Eyre,by Charlotte Brontë,"4.15 avg rating — 2,200,794 ratings"
-18,The Little Prince,by Antoine de Saint-Exupéry,"4.33 avg rating — 2,272,390 ratings"
-19,The Great Gatsby,by F. Scott Fitzgerald,"3.93 avg rating — 5,552,433 ratings"
-20,"The da Vinci Code (Robert Langdon, #2)",by Dan Brown (Goodreads Author),"3.92 avg rating — 2,433,026 ratings"
-21,Crime and Punishment,by Fyodor Dostoevsky,"4.28 avg rating — 976,924 ratings"
-22,Alice’s Adventures in Wonderland / Through the Looking-Glass,by Lewis Carroll,"4.06 avg rating — 585,796 ratings"
-23,"Divergent (Divergent, #1)",by Veronica Roth (Goodreads Author),"4.14 avg rating — 4,185,563 ratings"
-24,Memoirs of a Geisha,by Arthur Golden,"4.16 avg rating — 2,054,887 ratings"
-25,Les Misérables,by Victor Hugo,"4.21 avg rating — 822,067 ratings"
-26,The Alchemist,by Paulo Coelho (Goodreads Author),"3.92 avg rating — 3,297,768 ratings"
-27,Lord of the Flies,by William Golding,"3.70 avg rating — 3,043,770 ratings"
-28,"Anne of Green Gables (Anne of Green Gables, #1)",by L.M. Montgomery,"4.32 avg rating — 1,044,000 ratings"
-29,Romeo and Juliet,by William Shakespeare,"3.74 avg rating — 2,709,508 ratings"
-30,"The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",by Douglas Adams,"4.23 avg rating — 1,925,766 ratings"
-31,"City of Bones (The Mortal Instruments, #1)",by Cassandra Clare (Goodreads Author),"4.07 avg rating — 2,085,639 ratings"
-32,The Help,by Kathryn Stockett (Goodreads Author),"4.46 avg rating — 2,901,577 ratings"
-33,Dracula,by Bram Stoker,"4.02 avg rating — 1,365,419 ratings"
-34,Charlotte’s Web,by E.B. White,"4.20 avg rating — 1,941,571 ratings"
-35,"Ender’s Game (Ender's Saga, #1)",by Orson Scott Card,"4.31 avg rating — 1,424,336 ratings"
-36,Of Mice and Men,by John Steinbeck,"3.89 avg rating — 2,679,660 ratings"
-37,Fahrenheit 451,by Ray Bradbury,"3.96 avg rating — 2,602,497 ratings"
-38,Brave New World,by Aldous Huxley,"3.99 avg rating — 1,957,133 ratings"
-39,The Catcher in the Rye,by J.D. Salinger,"3.80 avg rating — 3,705,871 ratings"
-40,One Hundred Years of Solitude,by Gabriel García Márquez,"4.12 avg rating — 1,031,587 ratings"
-41,A Thousand Splendid Suns,by Khaled Hosseini (Goodreads Author),"4.44 avg rating — 1,625,356 ratings"
-42,1984,by George Orwell,"4.20 avg rating — 4,994,619 ratings"
-43,The Princess Bride,by William Goldman,"4.27 avg rating — 922,165 ratings"
-44,"Little Women (Little Women, #1)",by Louisa May Alcott,"4.16 avg rating — 2,335,512 ratings"
-45,The Outsiders,by S.E. Hinton (Goodreads Author),"4.14 avg rating — 1,466,655 ratings"
-46,The Secret Garden,by Frances Hodgson Burnett,"4.16 avg rating — 1,230,515 ratings"
-47,The Time Traveler's Wife,by Audrey Niffenegger (Goodreads Author),"4.00 avg rating — 1,825,802 ratings"
-48,"A Game of Thrones (A Song of Ice and Fire, #1)",by George R.R. Martin,"4.44 avg rating — 2,613,485 ratings"
-49,"Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)",by J.K. Rowling,"4.47 avg rating — 10,728,898 ratings"
-50,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",by J.K. Rowling,"4.62 avg rating — 3,908,536 ratings"
-51,"A Wrinkle in Time (Time Quintet, #1)",by Madeleine L'Engle,"3.98 avg rating — 1,241,167 ratings"
-52,The Odyssey,by Homer,"3.82 avg rating — 1,129,562 ratings"
-53,Frankenstein: The 1818 Text,by Mary Wollstonecraft Shelley,"3.88 avg rating — 1,711,344 ratings"
-54,The Kite Runner,by Khaled Hosseini (Goodreads Author),"4.35 avg rating — 3,310,025 ratings"
-55,"The Giver (The Giver, #1)",by Lois Lowry (Goodreads Author),"4.12 avg rating — 2,647,557 ratings"
-56,"The Handmaid’s Tale (The Handmaid's Tale, #1)",by Margaret Atwood (Goodreads Author),"4.14 avg rating — 2,202,849 ratings"
-57,Where the Wild Things Are,by Maurice Sendak,"4.25 avg rating — 1,030,909 ratings"
-58,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",by J.K. Rowling,"4.58 avg rating — 4,511,113 ratings"
-59,The Lovely Bones,by Alice Sebold,"3.86 avg rating — 2,414,225 ratings"
-60,Green Eggs and Ham,by Dr. Seuss,"4.31 avg rating — 811,417 ratings"
-61,The Adventures of Huckleberry Finn,by Mark Twain,"3.83 avg rating — 1,297,420 ratings"
-62,"Dune (Dune, #1)",by Frank Herbert,"4.28 avg rating — 1,507,839 ratings"
-63,Life of Pi,by Yann Martel,"3.94 avg rating — 1,691,079 ratings"
-64,A Tale of Two Cities,by Charles Dickens,"3.87 avg rating — 980,915 ratings"
-65,Lolita,by Vladimir Nabokov,"3.88 avg rating — 892,955 ratings"
-66,Slaughterhouse-Five,by Kurt Vonnegut Jr.,"4.10 avg rating — 1,418,645 ratings"
-67,Water for Elephants,by Sara Gruen (Goodreads Author),"4.11 avg rating — 1,660,852 ratings"
-68,The Bell Jar,by Sylvia Plath,"4.06 avg rating — 1,080,848 ratings"
-69,Matilda,by Roald Dahl,"4.33 avg rating — 1,026,207 ratings"
-70,The Stand,by Stephen King (Goodreads Author),"4.35 avg rating — 795,503 ratings"
-71,Catch-22,by Joseph Heller,"3.99 avg rating — 856,921 ratings"
-72,"The Girl with the Dragon Tattoo (Millennium, #1)",by Stieg Larsson,"4.17 avg rating — 3,314,326 ratings"
-73,"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",by Arthur Conan Doyle,"4.30 avg rating — 314,041 ratings"
-74,"The Pillars of the Earth (Kingsbridge, #1)",by Ken Follett (Goodreads Author),"4.34 avg rating — 792,929 ratings"
-75,Rebecca,by Daphne du Maurier,"4.25 avg rating — 671,560 ratings"
-76,"Watership Down (Watership Down, #1)",by Richard Adams,"4.09 avg rating — 492,505 ratings"
-77,Great Expectations,by Charles Dickens,"3.80 avg rating — 839,012 ratings"
-78,"Outlander (Outlander, #1)",by Diana Gabaldon (Goodreads Author),"4.26 avg rating — 1,109,444 ratings"
-79,The Color Purple,by Alice Walker,"4.27 avg rating — 719,310 ratings"
-80,Anna Karenina,by Leo Tolstoy,"4.10 avg rating — 883,930 ratings"
-81,One Flew Over the Cuckoo’s Nest,by Ken Kesey,"4.20 avg rating — 754,896 ratings"
-82,My Sister’s Keeper,by Jodi Picoult (Goodreads Author),"4.10 avg rating — 1,250,118 ratings"
-83,"The Fellowship of the Ring (The Lord of the Rings, #1)",by J.R.R. Tolkien,"4.40 avg rating — 2,951,366 ratings"
-84,The Brothers Karamazov,by Fyodor Dostoevsky,"4.38 avg rating — 354,007 ratings"
-85,And Then There Were None,by Agatha Christie,"4.28 avg rating — 1,478,757 ratings"
-86,A Tree Grows in Brooklyn,by Betty Smith,"4.30 avg rating — 485,927 ratings"
-87,A Clockwork Orange,by Anthony Burgess,"4.00 avg rating — 739,866 ratings"
-88,The Road,by Cormac McCarthy,"3.99 avg rating — 964,986 ratings"
-89,To Kill a Mockingbird,by Harper Lee,"4.26 avg rating — 6,507,320 ratings"
-90,It,by Stephen King (Goodreads Author),"4.24 avg rating — 1,191,459 ratings"
-91,"The Shining (The Shining, #1)",by Stephen King (Goodreads Author),"4.28 avg rating — 1,599,730 ratings"
-92,"The Golden Compass (His Dark Materials, #1)",by Philip Pullman,"4.03 avg rating — 1,572,570 ratings"
-93,"Vampire Academy (Vampire Academy, #1)",by Richelle Mead (Goodreads Author),"4.11 avg rating — 664,852 ratings"
-94,Siddhartha,by Hermann Hesse,"4.07 avg rating — 819,201 ratings"
-95,The Complete Stories and Poems,by Edgar Allan Poe,"4.40 avg rating — 285,877 ratings"
-96,"Angela’s Ashes (Frank McCourt, #1)",by Frank McCourt,"4.15 avg rating — 643,738 ratings"
-97,"Interview with the Vampire (The Vampire Chronicles, #1)",by Anne Rice,"4.02 avg rating — 620,254 ratings"
-98,Don Quixote,by Miguel de Cervantes Saavedra,"3.90 avg rating — 287,603 ratings"
-99,The Old Man and the Sea,by Ernest Hemingway,"3.81 avg rating — 1,225,575 ratings"
-100,The Poisonwood Bible,by Barbara Kingsolver,"4.10 avg rating — 766,609 ratings"
-101,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",by J.K. Rowling,"4.57 avg rating — 3,943,644 ratings"
-102,Atlas Shrugged,by Ayn Rand,"3.69 avg rating — 398,603 ratings"
-103,"The Notebook (The Notebook, #1)",by Nicholas Sparks (Goodreads Author),"4.16 avg rating — 1,772,885 ratings"
-104,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",by A.A. Milne,"4.38 avg rating — 472,882 ratings"
-105,Fahrenheit 451,by Ray Bradbury,"3.96 avg rating — 2,602,497 ratings"
-106,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",by J.K. Rowling,"4.58 avg rating — 3,465,366 ratings"
-107,"Moby-Dick or, The Whale",by Herman Melville,"3.56 avg rating — 589,080 ratings"
-108,A Prayer for Owen Meany,by John Irving (Goodreads Author),"4.24 avg rating — 328,447 ratings"
-109,The Stranger,by Albert Camus,"4.03 avg rating — 1,232,810 ratings"
-110,"Clockwork Angel (The Infernal Devices, #1)",by Cassandra Clare (Goodreads Author),"4.31 avg rating — 854,308 ratings"
-111,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",by J.K. Rowling,"4.43 avg rating — 4,209,733 ratings"
-112,The Secret Life of Bees,by Sue Monk Kidd (Goodreads Author),"4.10 avg rating — 1,322,542 ratings"
-113,The Red Tent,by Anita Diamant (Goodreads Author),"4.20 avg rating — 615,267 ratings"
-114,"The Name of the Wind (The Kingkiller Chronicle, #1)",by Patrick Rothfuss (Goodreads Author),"4.52 avg rating — 1,020,899 ratings"
-115,"The Hobbit, or There and Back Again (The Lord of the Rings, #0)",by J.R.R. Tolkien,"4.29 avg rating — 4,236,428 ratings"
-116,The Metamorphosis,by Franz Kafka,"3.89 avg rating — 1,252,496 ratings"
-117,The Master and Margarita,by Mikhail Bulgakov,"4.29 avg rating — 383,516 ratings"
-118,"Eragon (The Inheritance Cycle, #1)",by Christopher Paolini (Goodreads Author),"3.96 avg rating — 1,860,848 ratings"
-119,The Count of Monte Cristo,by Alexandre Dumas,"4.31 avg rating — 960,440 ratings"
-120,A Story of Yesterday,by Sergio Cobo,"4.55 avg rating — 14,503 ratings"
-121,"The Last Olympian (Percy Jackson and the Olympians, #5)",by Rick Riordan (Goodreads Author),"4.55 avg rating — 1,079,476 ratings"
-122,The Very Hungry Caterpillar,by Eric Carle,"4.34 avg rating — 528,621 ratings"
-123,Looking for Alaska,by John Green (Goodreads Author),"3.96 avg rating — 1,680,419 ratings"
-124,Middlesex,by Jeffrey Eugenides,"4.04 avg rating — 650,888 ratings"
-125,The Adventures of Tom Sawyer,by Mark Twain,"3.92 avg rating — 975,000 ratings"
-126,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",by Roald Dahl,"4.16 avg rating — 886,682 ratings"
-127,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",by C.S. Lewis,"4.24 avg rating — 2,960,618 ratings"
-128,The Curious Incident of the Dog in the Night-Time,by Mark Haddon,"3.89 avg rating — 1,537,593 ratings"
-129,"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",by Carlos Ruiz Zafón,"4.30 avg rating — 675,014 ratings"
-130,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",by Mitch Albom (Goodreads Author),"4.19 avg rating — 1,104,545 ratings"
-131,The Unbearable Lightness of Being,by Milan Kundera,"4.11 avg rating — 505,758 ratings"
-132,The Name of the Rose,by Umberto Eco,"4.14 avg rating — 379,279 ratings"
-133,"Holes (Holes, #1)",by Louis Sachar (Goodreads Author),"4.01 avg rating — 1,287,038 ratings"
-134,On the Road,by Jack Kerouac,"3.61 avg rating — 428,402 ratings"
-135,Where the Red Fern Grows,by Wilson Rawls,"4.12 avg rating — 423,552 ratings"
-136,"The Godfather (The Godfather, #1)",by Mario Puzo,"4.39 avg rating — 441,581 ratings"
-137,In Cold Blood,by Truman Capote,"4.09 avg rating — 692,940 ratings"
-138,Perfume: The Story of a Murderer,by Patrick Süskind,"4.04 avg rating — 508,665 ratings"
-139,"Six of Crows (Six of Crows, #1)",by Leigh Bardugo (Goodreads Author),"4.47 avg rating — 1,049,487 ratings"
-140,The Scarlet Letter,by Nathaniel Hawthorne,"3.44 avg rating — 889,895 ratings"
-141,Fight Club,by Chuck Palahniuk (Goodreads Author),"4.18 avg rating — 617,084 ratings"
-142,American Gods,by Neil Gaiman (Goodreads Author),"4.11 avg rating — 965,721 ratings"
-143,The Five People You Meet in Heaven,by Mitch Albom (Goodreads Author),"4.00 avg rating — 755,612 ratings"
-144,Watchmen,by Alan Moore (Goodreads Author),"4.38 avg rating — 576,358 ratings"
-145,The Divine Comedy: Inferno - Purgatorio - Paradiso,by Dante Alighieri,"4.08 avg rating — 162,049 ratings"
-146,"The Cat in the Hat (Cat in the Hat, #1)",by Dr. Seuss,"4.19 avg rating — 563,640 ratings"
-147,All Quiet on the Western Front,by Erich Maria Remarque,"4.09 avg rating — 486,267 ratings"
-148,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",by Terry Pratchett,"4.26 avg rating — 792,642 ratings"
-149,"Hush, Hush (Hush, Hush, #1)",by Becca Fitzpatrick (Goodreads Author),"3.92 avg rating — 725,981 ratings"
-150,"The Little House Collection (Little House, #1-9)",by Laura Ingalls Wilder,"4.36 avg rating — 155,234 ratings"
-151,"Lonesome Dove (Lonesome Dove, #1)",by Larry McMurtry,"4.55 avg rating — 207,899 ratings"
-152,"The Girl Who Played with Fire (Millennium, #2)",by Stieg Larsson,"4.26 avg rating — 951,817 ratings"
-153,Peter Pan,by J.M. Barrie,"4.04 avg rating — 359,411 ratings"
-154,"Catching Fire (The Hunger Games, #2)",by Suzanne Collins,"4.34 avg rating — 3,815,267 ratings"
-155,"The Titan’s Curse (Percy Jackson and the Olympians, #3)",by Rick Riordan (Goodreads Author),"4.37 avg rating — 1,139,521 ratings"
-156,The Song of Achilles,by Madeline Miller (Goodreads Author),"4.32 avg rating — 1,727,078 ratings"
-157,Love in the Time of Cholera,by Gabriel García Márquez,"3.94 avg rating — 524,532 ratings"
-158,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",by Rick Riordan (Goodreads Author),"4.42 avg rating — 1,154,740 ratings"
-159,The Addiction Manifesto,by Jerry Weaver,"4.78 avg rating — 1,226 ratings"
-160,"Insurgent (Divergent, #2)",by Veronica Roth (Goodreads Author),"3.97 avg rating — 1,563,775 ratings"
-161,A Walk to Remember,by Nicholas Sparks (Goodreads Author),"4.20 avg rating — 827,703 ratings"
-162,Gone Girl,by Gillian Flynn (Goodreads Author),"4.14 avg rating — 3,271,376 ratings"
-163,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",by Rick Riordan (Goodreads Author),"4.24 avg rating — 1,270,859 ratings"
-164,The Thorn Birds,by Colleen McCullough,"4.25 avg rating — 357,235 ratings"
-165,"Clockwork Princess (The Infernal Devices, #3)",by Cassandra Clare (Goodreads Author),"4.56 avg rating — 461,646 ratings"
-166,The Secret History,by Donna Tartt,"4.17 avg rating — 878,541 ratings"
-167,How the Grinch Stole Christmas!,by Dr. Seuss,"4.38 avg rating — 431,456 ratings"
-168,"The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",by Douglas Adams,"4.38 avg rating — 331,266 ratings"
-169,"Shadow Kiss (Vampire Academy, #3)",by Richelle Mead (Goodreads Author),"4.33 avg rating — 374,187 ratings"
-170,The Compleat Works of Wllm Shkspr,by Reduced Shakespeare Company,"4.44 avg rating — 9,641 ratings"
-171,Their Eyes Were Watching God,by Zora Neale Hurston,"3.99 avg rating — 365,369 ratings"
-172,"Throne of Glass (Throne of Glass, #1)",by Sarah J. Maas (Goodreads Author),"4.18 avg rating — 1,945,182 ratings"
-173,"The Maze Runner (The Maze Runner, #1)",by James Dashner (Goodreads Author),"4.05 avg rating — 1,600,280 ratings"
-174,The Importance of Being Earnest,by Oscar Wilde,"4.17 avg rating — 387,817 ratings"
-175,Atonement,by Ian McEwan (Goodreads Author),"3.94 avg rating — 540,057 ratings"
-176,"The Wonderful Wizard of Oz (Oz, #1)",by L. Frank Baum,"4.00 avg rating — 483,845 ratings"
-177,The Three Musketeers,by Alexandre Dumas,"4.10 avg rating — 336,376 ratings"
-178,"Eat, Pray, Love",by Elizabeth Gilbert (Goodreads Author),"3.64 avg rating — 1,796,030 ratings"
-179,The Lorax,by Dr. Seuss,"4.35 avg rating — 356,844 ratings"
-180,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",by Sarah J. Maas (Goodreads Author),"4.65 avg rating — 2,627,514 ratings"
-181,Goodnight Moon,by Margaret Wise Brown,"4.31 avg rating — 384,487 ratings"
-182,The Haunting of Hill House,by Shirley Jackson,"3.82 avg rating — 345,751 ratings"
-183,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",by Suzanne Collins,"4.49 avg rating — 227,722 ratings"
-184,A Midsummer Night’s Dream,by William Shakespeare,"3.94 avg rating — 558,293 ratings"
-185,Murder on the Orient Express,by Agatha Christie,"4.20 avg rating — 674,365 ratings"
-186,"Frostbite (Vampire Academy, #2)",by Richelle Mead (Goodreads Author),"4.25 avg rating — 364,441 ratings"
-187,The Elephant Tree,by R.D. Ronald,"3.78 avg rating — 30,792 ratings"
-188,Bridge to Terabithia,by Katherine Paterson,"4.05 avg rating — 568,189 ratings"
-189,Heart of Darkness,by Joseph Conrad,"3.43 avg rating — 533,372 ratings"
-190,Tess of the D’Urbervilles,by Thomas Hardy,"3.84 avg rating — 292,798 ratings"
-191,The Zombie Room,by R.D. Ronald,"3.82 avg rating — 31,796 ratings"
-192,"The Selection (The Selection, #1)",by Kiera Cass (Goodreads Author),"4.08 avg rating — 1,662,141 ratings"
-193,The Prophet,by Kahlil Gibran,"4.23 avg rating — 313,453 ratings"
-194,The Night Circus,by Erin Morgenstern (Goodreads Author),"4.01 avg rating — 1,037,777 ratings"
-195,"Blood Promise (Vampire Academy, #4)",by Richelle Mead (Goodreads Author),"4.30 avg rating — 320,709 ratings"
-196,The Diary of a Young Girl,by Anne Frank,"4.20 avg rating — 3,954,314 ratings"
-197,The Call of the Wild,by Jack London,"3.91 avg rating — 450,183 ratings"
-198,"The Silence of the Lambs (Hannibal Lecter, #2)",by Thomas Harris,"4.25 avg rating — 568,760 ratings"
-199,"The Good Earth (House of Earth, #1)",by Pearl S. Buck,"4.01 avg rating — 254,954 ratings"
-200,Alice in Wonderland,by Jane Carruth (Adapted By),"4.03 avg rating — 394,046 ratings"
+Rank,Title,Author,Rating,Rating Count,Score,People Voted,Image
+1,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.34,9228216,4022255,40910,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052._SX50_.jpg
+2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.50,3584219,3196853,32657,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265i/2._SY75_.jpg
+3,Pride and Prejudice,Jane Austen,4.29,4479689,2834565,29059,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885._SY75_.jpg
+4,To Kill a Mockingbird,Harper Lee,4.26,6507363,2503818,25570,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657._SY75_.jpg
+5,The Book Thief,Markus Zusak (Goodreads Author),4.39,2722178,1885264,19374,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063._SY75_.jpg
+6,"Twilight (The Twilight Saga, #1)",Stephenie Meyer,3.66,6946016,1721554,17546,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700522826i/41865._SY75_.jpg
+7,Animal Farm,George Orwell,4.00,4171799,1617451,16749,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448._SY75_.jpg
+8,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.61,138896,1569919,16267,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656625315i/30._SX50_.jpg
+9,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,4.28,681185,1482397,15448,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661032875i/11127._SY75_.jpg
+10,The Fault in Our Stars,John Green (Goodreads Author),4.13,5438737,1370422,14185,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085._SX50_.jpg
+11,The Picture of Dorian Gray,Oscar Wilde,4.13,1691708,1294350,13509,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428i/5297._SY75_.jpg
+12,The Giving Tree,Shel Silverstein,4.38,1182136,1204153,12465,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725807591i/370493._SX50_.jpg
+13,Wuthering Heights,Emily Brontë,3.90,1907906,1199991,12521,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388212715i/6185._SY75_.jpg
+14,Gone with the Wind,Margaret Mitchell,4.31,1243607,1178816,12155,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551144577i/18405._SY75_.jpg
+15,"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan (Goodreads Author),4.31,3233638,1154836,12082,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187._SY75_.jpg
+16,The Perks of Being a Wallflower,Stephen Chbosky,4.23,1895704,1132989,11795,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650033115i/22628._SX50_.jpg
+17,Jane Eyre,Charlotte Brontë,4.15,2200810,1095491,11513,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557343311i/10210._SY75_.jpg
+18,The Little Prince,Antoine de Saint-Exupéry,4.33,2272420,1091866,11513,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993._SY75_.jpg
+19,The Great Gatsby,F. Scott Fitzgerald,3.93,5552477,1061723,11306,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671._SY75_.jpg
+20,"The da Vinci Code (Robert Langdon, #2)",Dan Brown (Goodreads Author),3.92,2433033,1001880,10526,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720313229i/968._SY75_.jpg
+21,Crime and Punishment,Fyodor Dostoevsky,4.28,976934,1000002,10408,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144._SY75_.jpg
+22,Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,4.06,585796,980401,10334,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630487234i/24213._SX50_.jpg
+23,"Divergent (Divergent, #1)",Veronica Roth (Goodreads Author),4.14,4185576,970954,10180,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037._SY75_.jpg
+24,Memoirs of a Geisha,Arthur Golden,4.16,2054895,950255,9899,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409595968i/929._SY75_.jpg
+25,Les Misérables,Victor Hugo,4.21,822068,940291,9872,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411852091i/24280._SY75_.jpg
+26,The Alchemist,Paulo Coelho (Goodreads Author),3.92,3297808,930490,9719,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483412266i/865._SY75_.jpg
+27,Lord of the Flies,William Golding,3.70,3043781,914351,9708,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409i/7624._SY75_.jpg
+28,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,4.32,1044012,912154,9595,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615094578i/8127._SY75_.jpg
+29,Romeo and Juliet,William Shakespeare,3.74,2709520,896574,9600,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629680008i/18135._SY75_.jpg
+30,"The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,4.23,1925778,848234,8794,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848i/11._SY75_.jpg
+31,"City of Bones (The Mortal Instruments, #1)",Cassandra Clare (Goodreads Author),4.07,2085644,847900,8905,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315i/256683._SY75_.jpg
+32,The Help,Kathryn Stockett (Goodreads Author),4.46,2901592,831966,8875,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622355533i/4667024._SY75_.jpg
+33,Dracula,Bram Stoker,4.02,1365435,826149,8860,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245._SY75_.jpg
+34,Charlotte’s Web,E.B. White,4.20,1941582,806707,8684,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628267712i/24178._SY75_.jpg
+35,"Ender’s Game (Ender's Saga, #1)",Orson Scott Card,4.31,1424340,793632,8276,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802._SY75_.jpg
+36,Of Mice and Men,John Steinbeck,3.89,2679669,788101,8484,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302904i/890._SX50_.jpg
+37,Fahrenheit 451,Ray Bradbury,3.96,2602521,783729,8305,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982._SY75_.jpg
+38,Brave New World,Aldous Huxley,3.99,1957143,778220,8334,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129._SY75_.jpg
+39,The Catcher in the Rye,J.D. Salinger,3.80,3705897,765426,8222,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107._SY75_.jpg
+40,One Hundred Years of Solitude,Gabriel García Márquez,4.12,1031592,741296,7785,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320._SX50_.jpg
+41,A Thousand Splendid Suns,Khaled Hosseini (Goodreads Author),4.44,1625374,732000,7731,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655336738i/128029._SY75_.jpg
+42,1984,George Orwell,4.20,4994655,711242,7595,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506i/40961427._SX50_.jpg
+43,"Little Women (Little Women, #1)",Louisa May Alcott,4.16,2335523,706090,7746,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562690475i/1934._SY75_.jpg
+44,The Princess Bride,William Goldman,4.27,922165,706076,7511,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327903636i/21787._SY75_.jpg
+45,The Outsiders,S.E. Hinton (Goodreads Author),4.14,1466660,703901,7538,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442129426i/231804._SY75_.jpg
+46,The Secret Garden,Frances Hodgson Burnett,4.16,1230527,702523,7685,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873635i/2998._SY75_.jpg
+47,The Time Traveler's Wife,Audrey Niffenegger (Goodreads Author),4.00,1825807,700934,7340,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733519901i/18619684._SX50_.jpg
+48,"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,4.44,2613500,693707,7384,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234i/13496._SY75_.jpg
+49,"Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)",J.K. Rowling,4.47,10728986,648842,6920,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155._SX50_.jpg
+50,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,4.62,3908562,637374,6869,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663805647i/136251._SY75_.jpg
+51,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,3.98,1241164,631369,6752,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312i/33574273._SX50_.jpg
+52,The Odyssey,Homer,3.82,1129575,621948,6791,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711957706i/1381._SY75_.jpg
+53,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.88,1711351,616745,6787,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473i/35031085._SY75_.jpg
+54,The Kite Runner,Khaled Hosseini (Goodreads Author),4.35,3310049,607105,6560,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753i/77203._SY75_.jpg
+55,"The Giver (The Giver, #1)",Lois Lowry (Goodreads Author),4.12,2647570,597943,6461,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368i/3636._SY75_.jpg
+56,"The Handmaid’s Tale (The Handmaid's Tale, #1)",Margaret Atwood (Goodreads Author),4.14,2202878,596936,6490,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274i/38447._SY75_.jpg
+57,Where the Wild Things Are,Maurice Sendak,4.25,1030912,566780,6172,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384434560i/19543._SX50_.jpg
+58,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,4.58,4511160,565415,6159,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630547330i/5._SY75_.jpg
+59,The Lovely Bones,Alice Sebold,3.86,2414229,564445,6085,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457810586i/12232938._SY75_.jpg
+60,Green Eggs and Ham,Dr. Seuss,4.31,811417,563649,6187,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673212751i/23772._SX50_.jpg
+61,The Adventures of Huckleberry Finn,Mark Twain,3.83,1297419,561165,6182,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879i/2956._SX50_.jpg
+62,"Dune (Dune, #1)",Frank Herbert,4.28,1507850,551559,5923,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458._SY75_.jpg
+63,Life of Pi,Yann Martel,3.94,1691089,547081,5915,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631251689i/4214._SY75_.jpg
+64,A Tale of Two Cities,Charles Dickens,3.87,980918,538609,5906,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344922523i/1953._SY75_.jpg
+65,Lolita,Vladimir Nabokov,3.88,892963,536197,5766,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377i/7604._SY75_.jpg
+66,Slaughterhouse-Five,Kurt Vonnegut Jr.,4.10,1418649,520442,5614,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981._SY75_.jpg
+67,Water for Elephants,Sara Gruen (Goodreads Author),4.11,1660856,502364,5415,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667708346i/43641._SY75_.jpg
+68,The Bell Jar,Sylvia Plath,4.06,1080865,490699,5322,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554582218i/6514._SY75_.jpg
+69,Matilda,Roald Dahl,4.33,1026209,480677,5307,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388793265i/39988._SY75_.jpg
+70,The Stand,Stephen King (Goodreads Author),4.35,795508,455630,4914,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1213131305i/149267._SX50_.jpg
+71,Catch-22,Joseph Heller,3.99,856925,445411,4859,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317i/168668._SY75_.jpg
+72,"The Girl with the Dragon Tattoo (Millennium, #1)",Stieg Larsson,4.17,3314344,439231,4868,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135._SX50_.jpg
+73,"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle,4.30,314043,435799,4870,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1164045516i/3590._SY75_.jpg
+74,"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett (Goodreads Author),4.34,792930,428814,4616,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100i/5043._SY75_.jpg
+75,Rebecca,Daphne du Maurier,4.25,671566,423329,4706,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386605169i/17899948._SX50_.jpg
+76,"Watership Down (Watership Down, #1)",Richard Adams,4.09,492504,416637,4553,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931i/76620._SY75_.jpg
+77,Great Expectations,Charles Dickens,3.80,839017,406076,4655,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631687432i/2623._SY75_.jpg
+78,"Outlander (Outlander, #1)",Diana Gabaldon (Goodreads Author),4.26,1109452,399782,4284,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659086907i/10964._SY75_.jpg
+79,The Color Purple,Alice Walker,4.27,719310,399579,4502,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703084419i/52892857._SY75_.jpg
+80,Anna Karenina,Leo Tolstoy,4.10,883940,386339,4229,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617i/15823480._SX50_.jpg
+81,One Flew Over the Cuckoo’s Nest,Ken Kesey,4.20,754898,385708,4364,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516211014i/332613._SX50_.jpg
+82,My Sister’s Keeper,Jodi Picoult (Goodreads Author),4.10,1250119,372724,4100,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369504683i/10917._SY75_.jpg
+83,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,4.40,2951397,370589,4087,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351._SY75_.jpg
+84,The Brothers Karamazov,Fyodor Dostoevsky,4.38,354011,363231,3993,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126i/4934._SX50_.jpg
+85,And Then There Were None,Agatha Christie,4.28,1478776,354657,3892,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638425885i/16299._SY75_.jpg
+86,A Tree Grows in Brooklyn,Betty Smith,4.30,485927,346673,3809,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883484i/14891._SY75_.jpg
+87,A Clockwork Orange,Anthony Burgess,4.00,739870,343991,3869,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549260060i/41817486._SX50_.jpg
+88,The Road,Cormac McCarthy,3.99,964988,338176,3710,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600241424i/6288._SY75_.jpg
+89,To Kill a Mockingbird,Harper Lee,4.26,6507363,336376,3636,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554368352i/2654._SX50_.jpg
+90,It,Stephen King (Goodreads Author),4.24,1191467,323613,3482,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334416842i/830502._SY75_.jpg
+91,"The Shining (The Shining, #1)",Stephen King (Goodreads Author),4.28,1599745,321335,3544,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730i/11588._SY75_.jpg
+92,"The Golden Compass (His Dark Materials, #1)",Philip Pullman,4.03,1572577,320554,3563,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203i/119322._SX50_.jpg
+93,"Vampire Academy (Vampire Academy, #1)",Richelle Mead (Goodreads Author),4.11,664853,314333,3377,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361098973i/345627._SY75_.jpg
+94,Siddhartha,Hermann Hesse,4.07,819204,313628,3492,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629378189i/52036._SY75_.jpg
+95,The Complete Stories and Poems,Edgar Allan Poe,4.40,285879,308214,3480,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942676i/23919._SY75_.jpg
+96,"Angela’s Ashes (Frank McCourt, #1)",Frank McCourt,4.15,643739,306836,3426,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348317139i/252577._SY75_.jpg
+97,"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,4.02,620256,304087,3394,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380631642i/43763._SY75_.jpg
+98,Don Quixote,Miguel de Cervantes Saavedra,3.90,287604,300602,3406,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546112331i/3836._SX50_.jpg
+99,The Old Man and the Sea,Ernest Hemingway,3.81,1225584,297519,3409,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714i/2165._SY75_.jpg
+100,The Poisonwood Bible,Barbara Kingsolver,4.10,766613,291845,3208,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644073807i/7244._SY75_.jpg
+101,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,4.57,3943662,289870,3264,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627044952i/58613424._SY75_.jpg
+102,Atlas Shrugged,Ayn Rand,3.69,398603,260143,2861,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405868167i/662._SY75_.jpg
+103,"The Notebook (The Notebook, #1)",Nicholas Sparks (Goodreads Author),4.16,1772892,259991,2925,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483183484i/33648131._SY75_.jpg
+104,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,4.38,472885,254683,2983,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298440130i/99107._SY75_.jpg
+105,Fahrenheit 451,Ray Bradbury,3.96,2602521,250289,2751,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351643740i/4381._SY75_.jpg
+106,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,4.58,3465389,246712,2824,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627043894i/58613345._SY75_.jpg
+107,"Moby-Dick or, The Whale",Herman Melville,3.56,589085,230660,2648,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656i/153747._SY75_.jpg
+108,A Prayer for Owen Meany,John Irving (Goodreads Author),4.24,328447,220080,2419,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260470010i/4473._SY75_.jpg
+109,The Stranger,Albert Camus,4.03,1232836,200459,2272,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590930002i/49552._SY75_.jpg
+110,"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare (Goodreads Author),4.31,854310,200021,2195,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693490271i/7171637._SY75_.jpg
+111,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,4.43,4209771,195703,2309,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725i/15881._SY75_.jpg
+112,The Secret Life of Bees,Sue Monk Kidd (Goodreads Author),4.10,1322542,189183,2167,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628532099i/37435._SY75_.jpg
+113,The Red Tent,Anita Diamant (Goodreads Author),4.20,615268,185581,2078,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405739117i/4989._SY75_.jpg
+114,"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss (Goodreads Author),4.52,1020904,183888,1956,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074._SY75_.jpg
+115,"The Hobbit, or There and Back Again (The Lord of the Rings, #0)",J.R.R. Tolkien,4.29,4236459,182910,2122,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907._SY75_.jpg
+116,The Metamorphosis,Franz Kafka,3.89,1252521,181643,2107,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646444605i/485894._SY75_.jpg
+117,The Master and Margarita,Mikhail Bulgakov,4.29,383518,178686,1945,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867963i/117833._SY75_.jpg
+118,"Eragon (The Inheritance Cycle, #1)",Christopher Paolini (Goodreads Author),3.96,1860863,165617,1887,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852i/113436._SX50_.jpg
+119,The Count of Monte Cristo,Alexandre Dumas,4.31,960447,165597,1885,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997i/7126._SY75_.jpg
+120,A Story of Yesterday,Sergio Cobo,4.55,14503,164597,1646,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630609122i/58913358._SY75_.jpg
+121,"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan (Goodreads Author),4.55,1079477,163049,1850,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723393514i/4556058._SY75_.jpg
+122,The Very Hungry Caterpillar,Eric Carle,4.34,528624,162215,1886,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603739265i/4948._SX50_.jpg
+123,Looking for Alaska,John Green (Goodreads Author),3.96,1680427,162051,1777,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652042180i/99561._SY75_.jpg
+124,Middlesex,Jeffrey Eugenides,4.04,650886,160864,1800,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437029776i/2187._SY75_.jpg
+125,The Adventures of Tom Sawyer,Mark Twain,3.92,975005,159841,1970,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979i/24583._SY75_.jpg
+126,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,4.16,886684,159785,1914,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309211401i/6310._SY75_.jpg
+127,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,4.24,2960640,156926,1925,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077i/100915._SY75_.jpg
+128,The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.89,1537604,154592,1778,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624i/1618._SY75_.jpg
+129,"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón,4.30,675019,154450,1712,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628791882i/1232._SY75_.jpg
+130,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",Mitch Albom (Goodreads Author),4.19,1104557,151981,1734,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749i/6900._SY75_.jpg
+131,The Unbearable Lightness of Being,Milan Kundera,4.11,505761,149173,1674,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265401884i/9717._SY75_.jpg
+132,The Name of the Rose,Umberto Eco,4.14,379280,147689,1716,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415375471i/119073._SY75_.jpg
+133,"Holes (Holes, #1)",Louis Sachar (Goodreads Author),4.01,1287040,146954,1738,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618269830i/38709._SX50_.jpg
+134,On the Road,Jack Kerouac,3.61,428401,146723,1670,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658929891i/70401._SY75_.jpg
+135,Where the Red Fern Grows,Wilson Rawls,4.12,423554,143804,1672,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518702249i/10365._SY75_.jpg
+136,"The Godfather (The Godfather, #1)",Mario Puzo,4.39,441583,143771,1695,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394988109i/22034._SY75_.jpg
+137,In Cold Blood,Truman Capote,4.09,692941,142294,1687,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424931136i/168642._SY75_.jpg
+138,Perfume: The Story of a Murderer,Patrick Süskind,4.04,508670,141946,1611,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276i/343._SY75_.jpg
+139,"Six of Crows (Six of Crows, #1)",Leigh Bardugo (Goodreads Author),4.47,1049496,141383,1506,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651710803i/23437156._SY75_.jpg
+140,The Scarlet Letter,Nathaniel Hawthorne,3.44,889895,139344,1729,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404810944i/12296._SY75_.jpg
+141,Fight Club,Chuck Palahniuk (Goodreads Author),4.18,617090,137978,1591,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558216416i/36236124._SY75_.jpg
+142,American Gods,Neil Gaiman (Goodreads Author),4.11,965724,137625,1559,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462924585i/30165203._SY75_.jpg
+143,The Five People You Meet in Heaven,Mitch Albom (Goodreads Author),4.00,755617,134209,1541,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388200541i/3431._SX50_.jpg
+144,Watchmen,Alan Moore (Goodreads Author),4.38,576362,133177,1508,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442239711i/472331._SY75_.jpg
+145,The Divine Comedy: Inferno - Purgatorio - Paradiso,Dante Alighieri,4.08,162050,132623,1563,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657540227i/6656._SY75_.jpg
+146,"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,4.19,563641,131903,1629,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468890477i/233093._SX50_.jpg
+147,All Quiet on the Western Front,Erich Maria Remarque,4.09,486268,131131,1530,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632027397i/355697._SY75_.jpg
+148,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,4.26,792650,128931,1453,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615552073i/12067._SY75_.jpg
+149,"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick (Goodreads Author),3.92,725983,128133,1418,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358261334i/6339664._SY75_.jpg
+150,"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,4.36,155234,127837,1512,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577932823i/114345._SX50_.jpg
+151,"Lonesome Dove (Lonesome Dove, #1)",Larry McMurtry,4.55,207902,127549,1433,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559668037i/256008._SY75_.jpg
+152,"The Girl Who Played with Fire (Millennium, #2)",Stieg Larsson,4.26,951820,126535,1498,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351778881i/5060378._SX50_.jpg
+153,Peter Pan,J.M. Barrie,4.04,359411,124004,1540,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337714526i/34268._SX50_.jpg
+154,"Catching Fire (The Hunger Games, #2)",Suzanne Collins,4.34,3815280,122438,1442,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941i/6148028._SY75_.jpg
+155,"The Titan’s Curse (Percy Jackson and the Olympians, #3)",Rick Riordan (Goodreads Author),4.37,1139531,116800,1384,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361038385i/561456._SY75_.jpg
+156,The Song of Achilles,Madeline Miller (Goodreads Author),4.32,1727107,116134,1237,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357177533i/13623848._SY75_.jpg
+157,Love in the Time of Cholera,Gabriel García Márquez,3.94,524533,115539,1373,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644691354i/9712._SY75_.jpg
+158,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan (Goodreads Author),4.42,1154746,115527,1351,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518607478i/2120932._SX50_.jpg
+159,The Addiction Manifesto,Jerry Weaver,4.78,1226,115064,1151,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626523225i/58572970._SX50_.jpg
+160,"Insurgent (Divergent, #2)",Veronica Roth (Goodreads Author),3.97,1563780,114791,1312,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618525340i/11735983._SY75_.jpg
+161,A Walk to Remember,Nicholas Sparks (Goodreads Author),4.20,827707,113646,1325,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498755310i/35545737._SY75_.jpg
+162,Gone Girl,Gillian Flynn (Goodreads Author),4.14,3271405,113076,1291,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043._SY75_.jpg
+163,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan (Goodreads Author),4.24,1270873,111499,1327,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602661i/28186._SX50_.jpg
+164,The Thorn Birds,Colleen McCullough,4.25,357235,111465,1348,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548530867i/3412._SY75_.jpg
+165,"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare (Goodreads Author),4.56,461648,111320,1239,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436788488i/18335634._SY75_.jpg
+166,The Secret History,Donna Tartt,4.17,878546,111288,1225,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846i/29044._SY75_.jpg
+167,How the Grinch Stole Christmas!,Dr. Seuss,4.38,431456,111116,1426,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327958149i/113946._SX50_.jpg
+168,"The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,4.38,331265,109347,1284,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404613595i/13._SY75_.jpg
+169,"Shadow Kiss (Vampire Academy, #3)",Richelle Mead (Goodreads Author),4.33,374188,109102,1214,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361099049i/2802316._SY75_.jpg
+170,The Compleat Works of Wllm Shkspr,Reduced Shakespeare Company,4.44,9641,108867,1254,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347579233i/1423._SX50_.jpg
+171,Their Eyes Were Watching God,Zora Neale Hurston,3.99,365372,108265,1249,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368072803i/37415._SY75_.jpg
+172,"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas (Goodreads Author),4.18,1945239,107299,1179,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495278054i/7896527._SY75_.jpg
+173,"The Maze Runner (The Maze Runner, #1)",James Dashner (Goodreads Author),4.05,1600286,107163,1227,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375596592i/6186357._SY75_.jpg
+174,The Importance of Being Earnest,Oscar Wilde,4.17,387821,107067,1325,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298438452i/92303._SY75_.jpg
+175,Atonement,Ian McEwan (Goodreads Author),3.94,540058,106589,1269,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320449708i/6867._SY75_.jpg
+176,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,4.00,483847,106019,1379,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398003737i/236093._SY75_.jpg
+177,The Three Musketeers,Alexandre Dumas,4.10,336378,105366,1317,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630475503i/7190._SX50_.jpg
+178,"Eat, Pray, Love",Elizabeth Gilbert (Goodreads Author),3.64,1796039,104125,1204,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503066414i/19501._SY75_.jpg
+179,The Lorax,Dr. Seuss,4.35,356847,103741,1269,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705520064i/7784._SX50_.jpg
+180,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas (Goodreads Author),4.65,2627594,102569,1098,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546406996i/17927395._SY75_.jpg
+181,Goodnight Moon,Margaret Wise Brown,4.31,384487,102429,1273,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439223893i/32929._SX50_.jpg
+182,The Haunting of Hill House,Shirley Jackson,3.82,345754,101909,1079,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871336i/89717._SY75_.jpg
+183,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins,4.49,227723,99586,1168,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360094673i/7938275._SY75_.jpg
+184,A Midsummer Night’s Dream,William Shakespeare,3.94,558294,99203,1296,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327874534i/1622._SY75_.jpg
+185,Murder on the Orient Express,Agatha Christie,4.20,674377,99173,1249,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733926500i/853510._SY75_.jpg
+186,"Frostbite (Vampire Academy, #2)",Richelle Mead (Goodreads Author),4.25,364444,98180,1116,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361098960i/2282133._SY75_.jpg
+187,The Elephant Tree,R.D. Ronald,3.78,30794,97984,1053,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327248026i/9293020._SY75_.jpg
+188,Bridge to Terabithia,Katherine Paterson,4.05,568193,97657,1221,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532478367i/40940121._SY75_.jpg
+189,Heart of Darkness,Joseph Conrad,3.43,533376,95962,1184,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392799983i/4900._SX50_.jpg
+190,Tess of the D’Urbervilles,Thomas Hardy,3.84,292799,95511,1170,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633063778i/32261._SY75_.jpg
+191,The Zombie Room,R.D. Ronald,3.82,31797,94809,1018,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460547041i/29908754._SY75_.jpg
+192,"The Selection (The Selection, #1)",Kiera Cass (Goodreads Author),4.08,1662148,94248,1059,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322103400i/10507293._SY75_.jpg
+193,The Prophet,Kahlil Gibran,4.23,313453,93545,1125,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355046521i/2547._SY75_.jpg
+194,The Night Circus,Erin Morgenstern (Goodreads Author),4.01,1037785,93447,1050,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387124618i/9361589._SY75_.jpg
+195,"Blood Promise (Vampire Academy, #4)",Richelle Mead (Goodreads Author),4.30,320710,93363,1065,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442530605i/5996153._SY75_.jpg
+196,The Diary of a Young Girl,Anne Frank,4.20,3954332,93219,1155,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565i/48855._SY75_.jpg
+197,The Call of the Wild,Jack London,3.91,450188,92596,1201,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452291694i/1852._SY75_.jpg
+198,"The Silence of the Lambs (Hannibal Lecter, #2)",Thomas Harris,4.25,568759,91577,1110,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647930822i/23807._SY75_.jpg
+199,"The Good Earth (House of Earth, #1)",Pearl S. Buck,4.01,254954,91351,1113,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312497600i/1078._SY75_.jpg
+200,Alice in Wonderland,Jane Carruth (Adapted By),4.03,394047,91239,1184,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391458382i/13023._SX50_.jpg
+201,The Joy Luck Club,Amy Tan (Goodreads Author),3.97,695401,91141,1137,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304978653i/7763._SY75_.jpg
+202,The Phantom Tollbooth,Norton Juster,4.20,296636,91049,1068,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558858485i/378._SX50_.jpg
+203,"Oh, the Places You’ll Go!",Dr. Seuss,4.37,424903,90266,1146,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630510695i/191139._SX50_.jpg
+204,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid (Goodreads Author),4.41,3559151,89290,950,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664458703i/32620332._SY75_.jpg
+205,The Neverending Story,Michael Ende,4.18,210838,89168,1084,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554230952i/27712._SY75_.jpg
+206,Madame Bovary,Gustave Flaubert,3.70,352346,89087,1114,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606770119i/2175._SY75_.jpg
+207,Treasure Island,Robert Louis Stevenson,3.85,515375,88336,1182,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485248909i/295._SX50_.jpg
+208,Oliver Twist,Charles Dickens,3.88,411692,88326,1187,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868529i/18254._SY75_.jpg
+209,"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,4.13,209747,88162,1045,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529610467i/40605251._SX50_.jpg
+210,Jonathan Livingston Seagull,Richard Bach (Goodreads Author),3.86,261947,86969,1064,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432222358i/71728._SX50_.jpg
+211,"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,4.55,816094,85399,990,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786i/62291._SY75_.jpg
+212,Ulysses,James Joyce,3.76,132721,85206,1011,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428891345i/338798._SY75_.jpg
+213,The Boy in the Striped Pajamas,John Boyne (Goodreads Author),4.16,893734,84612,1037,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366228171i/39999._SY75_.jpg
+214,"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James (Goodreads Author),3.67,2752524,83658,944,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385207843i/10818853._SX50_.jpg
+215,"Jurassic Park (Jurassic Park, #1)",Michael Crichton,4.11,1001596,83318,1030,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529604411i/40604658._SY75_.jpg
+216,Misery,Stephen King (Goodreads Author),4.23,787635,82061,1000,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220401i/10614._SY75_.jpg
+217,"Beloved (Beloved Trilogy, #1)",Toni Morrison,3.97,460694,81561,996,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318i/6149._SY75_.jpg
+218,"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,4.10,274847,80048,991,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529681430i/40611463._SY75_.jpg
+219,"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan (Goodreads Author),4.30,896066,79425,955,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201003i/7736182._SY75_.jpg
+220,A Farewell to Arms,Ernest Hemingway,3.82,336043,78977,1011,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313714836i/10799._SY75_.jpg
+221,David Copperfield,Charles Dickens,4.04,248202,78480,1031,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461452762i/58696._SY75_.jpg
+222,The Canterbury Tales,Geoffrey Chaucer,3.52,231911,78165,1040,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1261208589i/2696._SY75_.jpg
+223,A Little Princess,Frances Hodgson Burnett,4.23,315976,77829,984,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868556i/3008._SY75_.jpg
+224,Thirteen Reasons Why,Jay Asher (Goodreads Author),3.84,1000837,77424,889,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555345043i/29844228._SY75_.jpg
+225,The World According to Garp,John Irving (Goodreads Author),4.10,233564,77344,961,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447234581i/7069._SY75_.jpg
+226,The Green Mile,Stephen King (Goodreads Author),4.48,339936,75001,929,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373903563i/11566._SY75_.jpg
+227,"Cinder (The Lunar Chronicles, #1)",Marissa Meyer (Goodreads Author),4.13,970220,74846,858,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507557775i/36381037._SY75_.jpg
+228,His Dark Materials (His Dark Materials #1-3),Philip Pullman,4.29,165082,74535,870,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442329494i/18116._SY75_.jpg
+229,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Gregory Maguire,3.53,641206,74379,902,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437733293i/37442._SY75_.jpg
+230,"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare (Goodreads Author),4.42,569385,73405,863,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477747i/10025305._SY75_.jpg
+231,The Velveteen Rabbit,Margery Williams Bianco,4.31,265372,73226,971,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347748913i/144974._SX50_.jpg
+232,Schindler’s List,Thomas Keneally,4.34,162856,73082,960,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722260788i/375013._SY75_.jpg
+233,"Shōgun (Asian Saga, #1)",James Clavell,4.41,198265,73074,894,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704385704i/52382796._SY75_.jpg
+234,The Iliad / The Odyssey,Homer,4.07,80157,72494,946,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388181863i/1375._SX50_.jpg
+235,The Silmarillion,J.R.R. Tolkien,4.02,314281,72323,867,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610045590i/7332._SX50_.jpg
+236,The Trial,Franz Kafka,3.95,358124,71619,877,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438i/17690._SY75_.jpg
+237,"Howl’s Moving Castle (Howl’s Moving Castle, #1)",Diana Wynne Jones,4.29,402130,70829,834,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630502935i/6294._SX50_.jpg
+238,Extremely Loud & Incredibly Close,Jonathan Safran Foer (Goodreads Author),3.97,428393,70344,803,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327879967i/4588._SY75_.jpg
+239,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory (Goodreads Author),4.08,505194,69247,851,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355932638i/37470._SY75_.jpg
+240,Man’s Search for Meaning,Viktor E. Frankl,4.38,788474,68276,795,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069._SY75_.jpg
+241,The Sun Also Rises,Ernest Hemingway,3.79,467366,68096,867,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509802323i/3876._SY75_.jpg
+242,"Fallen (Fallen, #1)",Lauren Kate (Goodreads Author),3.72,602475,68047,788,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440619649i/6487308._SY75_.jpg
+243,"Last Sacrifice (Vampire Academy, #6)",Richelle Mead (Goodreads Author),4.37,294198,67802,798,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319850978i/6527740._SX50_.jpg
+244,A Confederacy of Dunces,John Kennedy Toole,3.89,286027,67199,778,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562554946i/310612._SY75_.jpg
+245,The Secret Magdalene,Ki Longfellow (Goodreads Author),4.15,4673,65329,670,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175446011i/514811._SY75_.jpg
+246,"Mockingjay (The Hunger Games, #3)",Suzanne Collins,4.10,3426351,65154,818,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722918i/7260188._SY75_.jpg
+247,The Crucible,Arthur Miller,3.61,438099,65127,865,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547467608i/17250._SX50_.jpg
+248,Cat’s Cradle,Kurt Vonnegut Jr.,4.15,419438,64960,795,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867150i/135479._SY75_.jpg
+249,The Phantom of the Opera,Gaston Leroux,3.96,260461,64574,817,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867727i/480204._SY75_.jpg
+250,A Light in the Attic,Shel Silverstein,4.36,463427,64305,848,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427169918i/30118._SX50_.jpg
+251,The Screwtape Letters,C.S. Lewis,4.27,480061,63938,785,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476379778i/8130077._SY75_.jpg
+252,The Wind in the Willows,Kenneth Grahame,4.02,229700,63855,849,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731896433i/5659._SY75_.jpg
+253,"Spirit Bound (Vampire Academy, #5)",Richelle Mead (Goodreads Author),4.32,301727,63300,751,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291168967i/6479259._SY75_.jpg
+254,"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare (Goodreads Author),4.07,621823,62759,777,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369452302i/6752378._SY75_.jpg
+255,Blindness,José Saramago,4.17,312086,62370,721,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528481068i/40495148._SY75_.jpg
+256,The Lord of the Rings,J.R.R. Tolkien,4.53,701889,62237,743,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33._SX50_.jpg
+257,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.47,339876,62198,745,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320418824i/561909._SY75_.jpg
+258,The God of Small Things,Arundhati Roy (Goodreads Author),3.96,310563,61962,728,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590282886i/9777._SY75_.jpg
+259,"A Clash of Kings (A Song of Ice and Fire, #2)",George R.R. Martin,4.42,979068,61681,759,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212i/10572._SY75_.jpg
+260,The Chain Between Worlds (The Lost Artefacts #1),Johnathon Nicolaou (Goodreads Author),4.47,1190,61360,614,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643771474i/60288648._SX50_.jpg
+261,"Ella Enchanted (Ella Enchanted, #1)",Gail Carson Levine (Goodreads Author),4.01,418630,61302,757,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410727190i/24337._SY75_.jpg
+262,"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo (Goodreads Author),4.58,704392,60737,658,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172607i/22299763._SY75_.jpg
+263,Girl with a Pearl Earring,Tracy Chevalier (Goodreads Author),3.93,756623,60183,786,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327197580i/2865._SY75_.jpg
+264,"Uglies (Uglies, #1)",Scott Westerfeld (Goodreads Author),3.85,692029,59605,711,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654202671i/24770._SX50_.jpg
+265,The Wind-Up Bird Chronicle,Haruki Murakami,4.15,298760,59523,669,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327872639i/11275._SY75_.jpg
+266,Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,4.14,473929,59459,745,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308858322i/12691._SY75_.jpg
+267,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,4.40,2951397,59309,722,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339i/34._SX50_.jpg
+268,The House of the Spirits,Isabel Allende (Goodreads Author),4.29,291080,59208,738,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621672028i/9328._SY75_.jpg
+269,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,4.19,780336,58514,719,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529026760i/39832183._SY75_.jpg
+270,"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson (Goodreads Author),4.67,575782,58480,617,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659905828i/7235533._SY75_.jpg
+271,Norwegian Wood,Haruki Murakami,4.00,663328,57719,657,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713542603i/11297._SY75_.jpg
+272,She’s Come Undone,Wally Lamb (Goodreads Author),3.91,353189,57485,697,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543505339i/5203._SX50_.jpg
+273,"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater (Goodreads Author),3.76,489494,57018,664,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409283154i/6068551._SX50_.jpg
+274,The Girl on the Train,Paula Hawkins (Goodreads Author),3.96,3117515,56938,638,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574805682i/22557272._SX50_.jpg
+275,Speak,Laurie Halse Anderson (Goodreads Author),4.05,612681,56800,691,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529044298i/39280444._SY75_.jpg
+276,"Marked (House of Night, #1)",P.C. Cast (Goodreads Author),3.81,510974,56588,666,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317067002i/30183._SX50_.jpg
+277,Fear and Loathing in Las Vegas,Hunter S. Thompson,4.07,362824,55752,676,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703312483i/7745._SY75_.jpg
+278,The Sound and the Fury,William Faulkner,3.86,188388,55689,696,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433089995i/10975._SY75_.jpg
+279,The Shack: Where Tragedy Confronts Eternity,William Paul Young,3.83,672149,55578,662,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532013572i/40874325._SY75_.jpg
+280,Shutter Island,Dennis Lehane (Goodreads Author),4.13,207076,55529,620,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329269081i/21686._SY75_.jpg
+281,Paper Towns,John Green (Goodreads Author),3.71,1435276,55509,654,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349013610i/6442769._SX50_.jpg
+282,The Complete Calvin and Hobbes,Bill Watterson,4.81,41286,55251,690,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607384975i/24812._SX50_.jpg
+283,For Whom the Bell Tolls,Ernest Hemingway,3.98,304889,55224,756,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492591524i/46170._SY75_.jpg
+284,Kafka on the Shore,Haruki Murakami,4.13,507613,55109,623,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429638085i/4929._SY75_.jpg
+285,The Complete Sherlock Holmes,Arthur Conan Doyle,4.50,211875,54552,707,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348815538i/188572._SY75_.jpg
+286,Island of the Blue Dolphins,Scott O'Dell,3.87,341334,54346,701,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533405446i/41044096._SX50_.jpg
+287,Roots: The Saga of an American Family,Alex Haley,4.44,161861,53898,709,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329398936i/546018._SY75_.jpg
+288,Dark Places,Gillian Flynn (Goodreads Author),3.95,793826,53863,592,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354988288i/5886881._SY75_.jpg
+289,Stranger in a Strange Land,Robert A. Heinlein,3.92,319801,53807,674,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088i/350._SY75_.jpg
+290,The Idiot,Fyodor Dostoevsky,4.21,198268,53804,682,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657539107i/12505._SY75_.jpg
+291,Othello,William Shakespeare,3.89,415596,53466,764,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459795105i/12996._SY75_.jpg
+292,"Inkheart (Inkworld, #1)",Cornelia Funke (Goodreads Author),3.92,433984,53463,675,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538266636i/28194._SX50_.jpg
+293,Into the Wild,Jon Krakauer (Goodreads Author),4.01,1139470,53366,673,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634587789i/1845._SY75_.jpg
+294,Invisible Man,Ralph Ellison,3.92,194447,52920,655,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556482805i/16981._SY75_.jpg
+295,"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice,4.10,208966,52519,672,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347515742i/43814._SY75_.jpg
+296,"Neverwhere (London Below, #1)",Neil Gaiman (Goodreads Author),4.17,548827,52362,638,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943i/14497._SX50_.jpg
+297,"The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",Stieg Larsson,4.24,755561,52356,673,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327708260i/6892870._SX50_.jpg
+298,Mystic River,Dennis Lehane (Goodreads Author),4.17,152369,51928,589,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407109549i/21671._SY75_.jpg
+299,"Shatter Me (Shatter Me, #1)",Tahereh Mafi,3.85,1053134,51713,583,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310649047i/10429045._SY75_.jpg
+300,The Things They Carried,Tim O'Brien,4.14,329201,51706,625,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424663847i/133518._SY75_.jpg
+301,"Delirium (Delirium, #1)",Lauren Oliver (Goodreads Author),3.95,473505,51669,594,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327890411i/11614718._SX50_.jpg
+302,King Lear,William Shakespeare,3.91,227738,51506,703,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331563731i/12938._SY75_.jpg
+303,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris,4.06,351923,51284,576,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593241110i/28877._SY75_.jpg
+304,Uncle Tom’s Cabin,Harriet Beecher Stowe,3.91,234581,51274,709,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349231i/46787._SY75_.jpg
+305,1984,George Orwell,4.20,4994655,51225,551,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040._SX50_.jpg
+306,Never Let Me Go,Kazuo Ishiguro (Goodreads Author),3.85,767969,51152,614,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590i/6334._SY75_.jpg
+307,White Oleander,Janet Fitch (Goodreads Author),4.00,360002,50872,634,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501159524i/32234._SY75_.jpg
+307,"Beautiful Disaster (Beautiful, #1)",Jamie McGuire (Goodreads Author),4.00,699282,50872,575,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358259032i/11505797._SY75_.jpg
+309,"Wonder (Wonder, #1)",R.J. Palacio,4.36,1142111,50863,592,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545695751i/11387515._SY75_.jpg
+310,Blood River: A Journey to Africa’s Broken Heart,Tim Butcher (Goodreads Author),3.98,11705,50212,509,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531681288i/2184798._SY75_.jpg
+311,"Foundation (Foundation, #1)",Isaac Asimov,4.17,566623,49961,611,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846i/29579._SX50_.jpg
+312,Different Seasons,Stephen King (Goodreads Author),4.36,212994,49863,653,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329662611i/39662._SY75_.jpg
+313,"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot,4.35,152046,49335,652,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393644607i/32085._SX50_.jpg
+314,"Ready Player One (Ready Player One, #1)",Ernest Cline (Goodreads Author),4.23,1233786,49257,560,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947i/9969571._SY75_.jpg
+315,Midnight Sun [2008 Draft],Stephenie Meyer,4.01,148897,49097,577,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/nophoto/book/111x148._SX50_.png
+316,The Once and Future King,T.H. White,4.07,115034,48887,612,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338741283i/43545._SY75_.jpg
+317,Before I Go to Sleep,S.J. Watson (Goodreads Author),3.90,351166,48804,527,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358353512i/9736930._SY75_.jpg
+318,"The Cruel Prince (The Folk of the Air, #1)",Holly Black (Goodreads Author),4.02,1490212,48696,535,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574535986i/26032825._SY75_.jpg
+319,"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan (Goodreads Author),4.47,640221,48677,595,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201354i/12127750._SY75_.jpg
+320,"Mistborn: The Final Empire (Mistborn, #1)",Brandon Sanderson (Goodreads Author),4.49,813622,48649,535,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428._SY75_.jpg
+321,James and the Giant Peach,Roald Dahl,4.03,494750,48619,683,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320412586i/6689._SX50_.jpg
+322,I Know This Much Is True,Wally Lamb (Goodreads Author),4.21,317460,48579,580,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373532198i/227711._SY75_.jpg
+323,The Historian,Elizabeth Kostova,3.80,271137,48361,581,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717145561i/30236962._SY75_.jpg
+324,"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan (Goodreads Author),4.41,631790,48248,605,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201114i/9520360._SY75_.jpg
+325,The Time Machine,H.G. Wells,3.90,541224,48128,673,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880i/2493._SY75_.jpg
+326,East of Eden,John Steinbeck,4.42,575754,48040,564,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639969375i/4406._SY75_.jpg
+327,Big Little Lies,Liane Moriarty (Goodreads Author),4.31,1060266,48006,523,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559835163i/33516773._SY75_.jpg
+328,Candide,Voltaire,3.76,287835,47865,629,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345060082i/19380._SY75_.jpg
+329,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas (Goodreads Author),4.18,3461259,47848,548,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546406962i/16096824._SY75_.jpg
+330,The Complete Works,William Shakespeare,4.48,57345,47803,620,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327884293i/569564._SY75_.jpg
+331,Flow Down Like Silver,Ki Longfellow (Goodreads Author),4.01,4520,47789,494,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348371147i/6801755._SY75_.jpg
+332,"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore (Goodreads Author),4.23,177634,47735,533,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331419009i/28881._SY75_.jpg
+333,Paradise Lost,John Milton,3.85,173529,47716,640,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526070678i/15997._SY75_.jpg
+334,"The Bone Collector (Lincoln Rhyme, #1)",Jeffery Deaver (Goodreads Author),4.20,185460,47115,520,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437538512i/2373._SY75_.jpg
+335,"Heidi (Heidi, #1-2)",Johanna Spyri,4.03,205550,47062,655,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388462714i/93._SX50_.jpg
+336,The Thirteenth Tale,Diane Setterfield (Goodreads Author),3.98,320216,47013,569,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346267826i/40440._SX50_.jpg
+337,"The Wise Man’s Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss (Goodreads Author),4.55,588167,46898,520,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452624392i/1215032._SY75_.jpg
+338,Pretty Girls,Karin Slaughter (Goodreads Author),4.03,545509,46690,497,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432205734i/25574782._SY75_.jpg
+339,Never Lie,Freida McFadden (Goodreads Author),4.09,995922,46607,497,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661428846i/62080187._SY75_.jpg
+340,None of This Is True,Lisa Jewell (Goodreads Author),4.10,800509,46552,495,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092508i/62334530._SY75_.jpg
+341,Leaves of Grass,Walt Whitman,4.12,112308,46324,628,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418012204i/27494._SX50_.jpg
+342,"Me Before You (Me Before You, #1)",Jojo Moyes (Goodreads Author),4.26,1722224,46286,537,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665087720i/17347634._SY75_.jpg
+343,The Woman in the Window,A.J. Finn,3.95,836192,46141,496,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528225499i/40389527._SY75_.jpg
+344,"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare (Goodreads Author),4.21,550215,46114,573,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477703i/8755776._SY75_.jpg
+345,"Graceling (Graceling Realm, #1)",Kristin Cashore,4.07,472010,45926,545,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331548394i/3236307._SY75_.jpg
+346,No Exit,Taylor Adams (Goodreads Author),3.99,186851,45320,484,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498539883i/35522836._SY75_.jpg
+347,The Martian,Andy Weir (Goodreads Author),4.42,1195060,45221,531,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564._SY75_.jpg
+348,Behind Closed Doors,B.A. Paris (Goodreads Author),3.98,680222,45216,488,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458854462i/29437949._SY75_.jpg
+349,The Paris Apartment,Lucy Foley (Goodreads Author),3.65,625844,45210,482,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645550948i/58468990._SY75_.jpg
+350,"Are You There God? It’s Me, Margaret",Judy Blume (Goodreads Author),3.94,248058,45204,606,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388356524i/37732._SY75_.jpg
+351,’Salem’s Lot,Stephen King (Goodreads Author),4.10,617073,45004,568,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738025067i/11590._SY75_.jpg
+352,All the Light We Cannot See,Anthony Doerr (Goodreads Author),4.31,1826798,44828,519,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445646i/18143977._SY75_.jpg
+353,The Cider House Rules,John Irving (Goodreads Author),4.16,190165,44611,601,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327962519i/4687._SY75_.jpg
+354,The Couple Next Door,Shari Lapena (Goodreads Author),3.81,651669,44453,476,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471502242i/28815474._SY75_.jpg
+355,Lock Every Door,Riley Sager (Goodreads Author),3.89,253127,44079,470,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540938359i/41837243._SY75_.jpg
+356,Hamlet,William Shakespeare,4.02,997689,43902,548,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351051208i/1420._SY75_.jpg
+357,A Flicker in the Dark,Stacy Willingham (Goodreads Author),3.99,502092,43892,470,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621347398i/57693172._SY75_.jpg
+358,The Complete Maus,Art Spiegelman,4.58,236291,43633,550,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327354180i/15195._SX50_.jpg
+359,Fangirl,Rainbow Rowell (Goodreads Author),3.94,763859,43282,502,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355886270i/16068905._SX50_.jpg
+360,Home Before Dark,Riley Sager (Goodreads Author),4.06,248617,43234,463,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571683410l/50833559._SX50_SY75_.jpg
+361,Mrs. Dalloway,Virginia Woolf,3.79,326581,43208,561,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646148221i/14942._SY75_.jpg
+362,Walden,Henry David Thoreau,3.78,196637,43139,584,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630470982i/16902._SY75_.jpg
+363,Final Girls,Riley Sager (Goodreads Author),3.83,223609,43099,461,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496658340i/32796253._SY75_.jpg
+364,"You (You, #1)",Caroline Kepnes (Goodreads Author),3.96,266927,42912,460,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549463282i/36430011._SY75_.jpg
+365,"Legend (Legend, #1)",Marie Lu (Goodreads Author),4.15,546944,42801,490,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501368160i/9275658._SY75_.jpg
+366,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,4.28,316134,42764,592,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1165961740i/9375._SY75_.jpg
+367,"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle,4.13,365306,42743,586,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355929358i/8921._SX50_.jpg
+368,"The Family Upstairs (The Family Upstairs, #1)",Lisa Jewell (Goodreads Author),3.96,490819,42620,454,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564517337i/43822820._SY75_.jpg
+369,Sophie’s World,Jostein Gaarder,3.97,269960,42580,516,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343459906i/10959._SY75_.jpg
+370,Then She Was Gone,Lisa Jewell (Goodreads Author),4.05,832422,42469,457,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523891273i/35297426._SY75_.jpg
+371,The Awakening,Kate Chopin,3.68,217481,42297,539,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170507247i/58345._SY75_.jpg
+372,The Only One Left,Riley Sager (Goodreads Author),4.14,421952,42290,451,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003i/62703226._SY75_.jpg
+373,"The Housemaid's Secret (The Housemaid, #2)",Freida McFadden (Goodreads Author),4.22,1028094,42177,450,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664729357i/62848145._SY75_.jpg
+374,The Last Thing He Told Me,Laura Dave (Goodreads Author),3.83,1052482,42125,450,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603034599i/54981009._SY75_.jpg
+375,The Graveyard Book,Neil Gaiman (Goodreads Author),4.16,555698,41371,519,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531295292i/2213661._SY75_.jpg
+376,The Woman in Cabin 10,Ruth Ware (Goodreads Author),3.73,677265,40824,437,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465878007i/28187230._SY75_.jpg
+377,Do Androids Dream of Electric Sheep?,Philip K. Dick,4.09,479380,40756,523,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927i/36402034._SY75_.jpg
+378,Middlemarch,George Eliot,4.03,170502,40290,504,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568307771i/19089._SY75_.jpg
+379,The Monster at the End of this Book,Jon Stone,4.46,126018,40125,497,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388193494i/44186._SX50_.jpg
+380,"A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",Holly Jackson (Goodreads Author),4.30,1465230,40063,426,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545494980i/40916679._SY75_.jpg
+381,Stardust,Neil Gaiman (Goodreads Author),4.10,471038,40001,513,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459127484i/16793._SY75_.jpg
+382,Sophie’s Choice,William Styron,4.17,92743,39955,544,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356714742i/228560._SY75_.jpg
+383,"Fifty Shades Darker (Fifty Shades, #2)",E.L. James (Goodreads Author),3.83,945903,39789,472,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631260114i/11857408._SY75_.jpg
+384,Black Beauty,Anna Sewell,4.00,288696,39767,573,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578265482i/3685._SY75_.jpg
+385,The Prince of Tides,Pat Conroy,4.26,212169,39734,523,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512744907i/16735._SY75_.jpg
+386,"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,3.74,391323,39406,512,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708114013i/37781._SY75_.jpg
+387,"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris (Goodreads Author),3.97,551411,39368,499,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468560853i/301082._SY75_.jpg
+388,"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante, #1)",Benjamin Alire Sáenz (Goodreads Author),4.30,645038,39240,428,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328320260i/12000020._SY75_.jpg
+389,Number the Stars,Lois Lowry (Goodreads Author),4.19,594210,39024,516,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630542426i/47281._SX50_.jpg
+390,"A Time to Kill (Jake Brigance, #1)",John Grisham (Goodreads Author),4.12,814104,39007,527,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554303029i/32542._SY75_.jpg
+391,"Bridget Jones’s Diary (Bridget Jones, #1)",Helen Fielding (Goodreads Author),3.81,1002482,38780,534,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659879886i/227443._SY75_.jpg
+392,"The Magician’s Nephew (Chronicles of Narnia, #6)",C.S. Lewis,4.05,571858,38725,539,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814770i/65605._SY75_.jpg
+393,The Art of Racing in the Rain,Garth Stein (Goodreads Author),4.23,536715,38654,457,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377206302i/3153910._SY75_.jpg
+394,V for Vendetta,Alan Moore (Goodreads Author),4.26,316033,38600,506,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343668985i/5805._SY75_.jpg
+395,Eleanor & Park,Rainbow Rowell (Goodreads Author),3.93,1217819,38595,451,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952742i/15745753._SX50_.jpg
+396,"Ignite Me (Shatter Me, #3)",Tahereh Mafi,4.46,574019,38005,423,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375972497i/13188676._SY75_.jpg
+397,American Psycho,Bret Easton Ellis,3.81,336985,37979,455,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436934349i/28676._SY75_.jpg
+398,Franny and Zooey,J.D. Salinger,3.96,230607,37963,485,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355037988i/5113._SY75_.jpg
+399,War and Peace,Leo Tolstoy,4.16,347094,37651,456,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930i/656._SY75_.jpg
+400,"The Gunslinger (The Dark Tower, #1)",Stephen King (Goodreads Author),3.92,636669,37615,461,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220416i/43615._SY75_.jpg
+401,The Witches,Roald Dahl,4.18,412233,37599,502,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351707720i/6327._SY75_.jpg
+402,Beowulf,Unknown,3.49,330412,37580,534,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878125i/52357._SY75_.jpg
+403,White Fang,Jack London,4.02,197512,37447,533,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475878443i/43035._SX50_.jpg
+404,Love You Forever,Robert Munsch,4.38,242648,37103,471,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348832754i/310259._SX50_.jpg
+405,A Short History of Nearly Everything,Bill Bryson,4.22,403498,37051,449,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433086293i/21._SY75_.jpg
+406,"Allegiant (Divergent, #3)",Veronica Roth (Goodreads Author),3.60,1099143,36873,458,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395582745i/18710190._SY75_.jpg
+407,"Harry Potter Series Box Set (Harry Potter, #1-7)",J.K. Rowling,4.73,295938,36686,442,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534298934i/862041._SX50_.jpg
+408,"The Power of One (The Power of One, #1)",Bryce Courtenay,4.35,91460,36621,420,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184360i/122._SX50_.jpg
+409,"If I Stay (If I Stay, #1)",Gayle Forman (Goodreads Author),3.92,941352,36568,442,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630573973i/4374400._SY75_.jpg
+410,The Complete Novels,Jane Austen,4.57,33657,36448,493,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388178574i/14905._SY75_.jpg
+411,Gulliver’s Travels,Jonathan Swift,3.59,287111,36331,556,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427829692i/7733._SY75_.jpg
+412,"The Eye of the World (The Wheel of Time, #1)",Robert Jordan,4.19,557005,36296,423,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659905815i/228665._SY75_.jpg
+413,A Little Life,Hanya Yanagihara (Goodreads Author),4.31,781053,36176,382,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446469353i/22822858._SY75_.jpg
+414,Tuck Everlasting,Natalie Babbitt,3.90,284209,35603,485,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661030663i/84981._SY75_.jpg
+415,"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan (Goodreads Author),4.57,451052,35584,437,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201430i/12127810._SY75_.jpg
+416,A Portrait of the Artist as a Young Man,James Joyce,3.64,157671,35445,468,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646339380i/7588._SY75_.jpg
+417,"It Ends with Us (It Ends with Us, #1)",Colleen Hoover (Goodreads Author),4.12,4153881,35380,382,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688011813i/27362503._SY75_.jpg
+418,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.83,622286,35314,500,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526i/51496._SY75_.jpg
+419,11/22/63,Stephen King (Goodreads Author),4.34,585384,35077,417,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327876792i/10644930._SY75_.jpg
+420,"Fifty Shades Freed (Fifty Shades, #3)",E.L. James (Goodreads Author),3.83,888244,34919,417,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336418837i/13536860._SY75_.jpg
+421,Bel Canto,Ann Patchett,3.94,301816,34741,423,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352997328i/5826._SY75_.jpg
+422,"A Child Called ""It"" (Dave Pelzer, #1)",Dave Pelzer (Goodreads Author),4.13,448311,34654,444,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438400434i/60748._SY75_.jpg
+423,The Grapes of Wrath,John Steinbeck,4.02,948223,34062,447,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670575i/18114322._SY75_.jpg
+424,Tao Te Ching,Lao Tzu,4.30,169177,33996,429,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578861i/67896._SY75_.jpg
+425,Inferno,Dante Alighieri,4.03,193048,33981,457,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520255019i/15645._SY75_.jpg
+426,"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas (Goodreads Author),4.46,1219610,33936,392,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460846511i/20613470._SY75_.jpg
+427,القرآن الكريم,Anonymous,4.38,70188,33928,382,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275263838i/646462._SY75_.jpg
+428,The Martian Chronicles,Ray Bradbury,4.16,273515,33913,449,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661016554i/76778._SY75_.jpg
+429,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,4.19,242471,33703,496,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697731059i/391729._SY75_.jpg
+430,As I Lay Dying,William Faulkner,3.72,176904,33635,449,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451810782i/77013._SY75_.jpg
+431,Cold Mountain,Charles Frazier,3.89,246401,33622,459,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442416348i/10920._SY75_.jpg
+432,Cloud Atlas,David Mitchell,4.01,257728,33585,404,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563042852i/49628._SX50_.jpg
+433,Go Ask Alice,"Beatrice Sparks (as ""Anonymous"")",3.74,282841,33534,450,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870536i/46799._SX50_.jpg
+434,The Hunchback of Notre-Dame,Victor Hugo,4.02,208790,33349,479,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388342667i/30597._SY75_.jpg
+435,"Eldest (The Inheritance Cycle, #2)",Christopher Paolini (Goodreads Author),4.04,469222,33322,429,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387119654i/45978._SX50_.jpg
+436,Mansfield Park,Jane Austen,3.86,364026,33306,472,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397063295i/45032._SY75_.jpg
+437,"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward (Goodreads Author),4.16,344398,33172,392,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429676285i/42899._SY75_.jpg
+438,Steppenwolf,Hermann Hesse,4.13,198902,32945,421,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389332672i/16631._SY75_.jpg
+439,"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini (Goodreads Author),4.10,395612,32894,425,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661030683i/2248573._SX50_.jpg
+440,A Separate Peace,John Knowles,3.60,225988,32742,446,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528860889i/5148._SY75_.jpg
+441,"Beautiful Creatures (Caster Chronicles, #1)",Kami Garcia (Goodreads Author),3.77,611542,32605,404,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873282i/6304335._SY75_.jpg
+442,The BFG,Roald Dahl,4.23,504371,32588,438,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327872673i/6319._SY75_.jpg
+443,"Fourth Wing (The Empyrean, #1)",Rebecca Yarros (Goodreads Author),4.58,2513249,32387,346,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701980900i/61431922._SY75_.jpg
+444,"Obsidian (Lux, #1)",Jennifer L. Armentrout (Goodreads Author),4.13,289860,32033,363,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328275091i/12578077._SY75_.jpg
+445,Robinson Crusoe,Daniel Defoe,3.68,318353,32028,478,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1682976488i/2932._SY75_.jpg
+446,"Stargirl (Stargirl, #1)",Jerry Spinelli,3.77,331739,31892,385,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335947642i/22232._SX50_.jpg
+447,Room,Emma Donoghue (Goodreads Author),4.08,819317,31524,391,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472239721i/31685789._SX50_.jpg
+448,The Amazing Adventures of Kavalier & Clay,Michael Chabon,4.18,207526,31518,389,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503806495i/3985._SY75_.jpg
+449,"Red Queen (Red Queen, #1)",Victoria Aveyard (Goodreads Author),3.99,1092844,31407,356,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449778912i/22328546._SY75_.jpg
+450,Coraline,Neil Gaiman (Goodreads Author),4.13,741136,31203,401,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435i/17061._SY75_.jpg
+451,The Remains of the Day,Kazuo Ishiguro (Goodreads Author),4.14,328837,31188,425,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327128714i/28921._SY75_.jpg
+452,Where the Crawdads Sing,Delia Owens (Goodreads Author),4.38,3329377,31147,354,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135._SY75_.jpg
+453,"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs,3.92,1313260,31016,392,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623449170i/9460487._SY75_.jpg
+454,"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman,4.10,371298,30998,398,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189152i/18122._SY75_.jpg
+455,"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare (Goodreads Author),4.39,400716,30942,387,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477794i/8755785._SY75_.jpg
+456,زندگی مه آلود پریا,سید مرتضی مصطفوی (Goodreads Author),3.34,1032,30907,311,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532526741i/40937505._SX50_.jpg
+457,"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",Robert M. Pirsig,3.78,237682,30636,389,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410136019i/629._SY75_.jpg
+458,The Plague,Albert Camus,4.02,287038,30617,413,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503362434i/11989._SY75_.jpg
+459,"Blood Meridian, or, the Evening Redness in the West",Cormac McCarthy,4.16,189060,30589,349,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701688704i/394535._SY75_.jpg
+460,Doctor Zhivago,Boris Pasternak,4.01,99512,30524,458,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385508725i/130440._SY75_.jpg
+461,The Firm,Robin Waterfield (Adaptor),4.06,632958,30486,446,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418465200i/5358._SY75_.jpg
+462,Dear John,Nicholas Sparks (Goodreads Author),4.04,608938,30478,390,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397749854i/5526._SY75_.jpg
+463,Midnight’s Children,Salman Rushdie,3.98,128535,30383,370,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673724335i/14836._SY75_.jpg
+464,The English Patient,Michael Ondaatje,3.86,135593,30326,415,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320527907i/11713._SY75_.jpg
+465,"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews,3.85,225955,30120,391,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327880853l/43448._SX50_SY75_.jpg
+466,Hidden Pictures,Jason Rekulak (Goodreads Author),4.16,422325,30038,319,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635260162i/58724923._SY75_.jpg
+467,The Last Song,Nicholas Sparks (Goodreads Author),4.16,563725,29950,370,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1286549186i/6400090._SY75_.jpg
+468,Circe,Madeline Miller (Goodreads Author),4.23,1195608,29934,341,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565909496i/35959740._SY75_.jpg
+469,"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick (Goodreads Author),3.98,331057,29686,367,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362408146i/7791997._SY75_.jpg
+470,All the Bright Places,Jennifer Niven (Goodreads Author),4.12,599300,29596,323,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404331702i/18460392._SY75_.jpg
+471,Like Water for Chocolate,Laura Esquivel,3.95,380134,29587,417,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550721459i/6952._SY75_.jpg
+472,"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon (Goodreads Author),4.34,370954,29380,371,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456114344i/5364._SY75_.jpg
+473,Midnight in the Garden of Good and Evil,John Berendt,3.92,282774,29131,410,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427166915i/386187._SY75_.jpg
+474,"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas (Goodreads Author),4.36,1388531,29074,349,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391580481i/17167166._SY75_.jpg
+475,My Ántonia,Willa Cather,3.84,142296,29002,396,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151307i/17150._SY75_.jpg
+476,A Streetcar Named Desire,Tennessee Williams,3.98,325803,28766,434,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389153133i/12220._SX50_.jpg
+477,"The One (The Selection, #3)",Kiera Cass (Goodreads Author),4.14,733830,28572,337,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699307836i/18635016._SY75_.jpg
+478,Breakfast at Tiffany’s and Three Stories,Truman Capote,3.85,249102,28559,400,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477015353i/251688._SY75_.jpg
+479,Breakfast of Champions,Kurt Vonnegut Jr.,4.07,270073,28468,361,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327934446i/4980._SY75_.jpg
+480,Carrie,Stephen King (Goodreads Author),3.99,785030,28342,392,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166254258i/10592._SY75_.jpg
+481,The Origin of Species,Charles Darwin,4.01,118231,28295,389,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298417570i/22463._SY75_.jpg
+482,"The Subtle Knife (His Dark Materials, #2)",Philip Pullman,4.15,447460,28264,378,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535965085i/41637836._SY75_.jpg
+483,The Virgin Suicides,Jeffrey Eugenides,3.79,375505,28237,361,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319032910i/10956._SY75_.jpg
+484,The Prince,Niccolò Machiavelli,3.84,359026,28223,395,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828i/28862._SY75_.jpg
+485,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas (Goodreads Author),4.65,2627594,28201,306,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620325671i/50659468._SY75_.jpg
+486,"Hopeless (Hopeless, #1)",Colleen Hoover (Goodreads Author),4.23,633289,27976,315,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353489892i/15717943._SY75_.jpg
+487,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Laini Taylor (Goodreads Author),3.99,378000,27935,331,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461353773i/8490112._SY75_.jpg
+488,A Fine Balance,Rohinton Mistry,4.38,154144,27910,333,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551173390i/5211._SY75_.jpg
+489,The Invisible Life of Addie LaRue,Victoria E. Schwab (Goodreads Author),4.18,1272827,27570,306,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432i/50623864._SY75_.jpg
+490,Infinite Jest,David Foster Wallace,4.25,96302,27558,302,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446876799i/6759._SY75_.jpg
+491,Local Woman Missing,Mary Kubica (Goodreads Author),4.13,608163,27417,290,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629480107i/57361474._SX50_.jpg
+492,Death of a Salesman,Arthur Miller,3.58,246465,27366,422,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554514105i/12898._SY75_.jpg
+493,"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,4.39,972879,27298,329,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327861115i/8664353._SY75_.jpg
+494,"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,4.17,762058,27212,357,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661026821i/13497._SY75_.jpg
+495,"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,4.15,204453,27199,396,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519300455i/19302._SX50_.jpg
+496,"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas (Goodreads Author),4.61,1089281,27118,314,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441230104i/18006496._SY75_.jpg
+497,"Evermore (The Immortals, #1)",Alyson Noel (Goodreads Author),3.59,295099,26857,325,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362336360i/3975774._SY75_.jpg
+498,"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",Maya Angelou,4.30,553715,26765,373,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327957927i/13214._SY75_.jpg
+499,The Scarlet Pimpernel,Emmuska Orczy,4.07,138393,26454,343,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406764899i/136116._SX50_.jpg
+500,"The Hate U Give (The Hate U Give, #1)",Angie Thomas (Goodreads Author),4.46,957768,26380,303,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476284759i/32075671._SY75_.jpg
+501,"Red, White & Royal Blue",Casey McQuiston (Goodreads Author),4.07,1122239,26377,293,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566742512i/41150487._SY75_.jpg
+502,We Were Liars,E. Lockhart (Goodreads Author),3.66,1225820,26268,292,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402749479i/16143347._SY75_.jpg
+503,Jonathan Strange & Mr Norrell,Susanna Clarke,3.86,244769,26228,323,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357027589i/14201._SY75_.jpg
+504,"The Host (The Host, #1)",Stephenie Meyer,3.86,1029749,26224,325,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318009171i/1656001._SY75_.jpg
+505,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson (Goodreads Author),4.00,719978,26159,342,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583433024i/397483._SY75_.jpg
+506,Snow Flower and the Secret Fan,Lisa See (Goodreads Author),4.09,379182,26148,333,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532005164i/40873273._SY75_.jpg
+507,"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater (Goodreads Author),4.05,385703,26138,299,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573508485i/17675462._SY75_.jpg
+508,Pet Sematary,Stephen King (Goodreads Author),4.07,644309,25994,345,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480069533i/33124137._SY75_.jpg
+509,"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer,3.86,554912,25876,337,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630661894i/249747._SX50_.jpg
+510,Sharp Objects,Gillian Flynn (Goodreads Author),4.01,1135229,25842,292,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475695315i/18045891._SY75_.jpg
+511,"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins (Goodreads Author),3.96,459385,25826,301,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358271931i/6936382._SY75_.jpg
+512,Northanger Abbey,Jane Austen,3.85,424864,25803,375,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388201718i/50398._SY75_.jpg
+513,"Matched (Matched, #1)",Ally Condie (Goodreads Author),3.62,801628,25704,320,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367706191i/7735333._SY75_.jpg
+514,Persuasion,Jane Austen,4.15,733552,25637,327,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385172413i/2156._SY75_.jpg
+515,"The Angel Experiment (Maximum Ride, #1)",James Patterson (Goodreads Author),4.07,228662,25610,315,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339277875i/13152._SY75_.jpg
+516,The Nightingale,Kristin Hannah (Goodreads Author),4.64,1674071,25556,290,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681839850i/21853621._SY75_.jpg
+517,"Faust, First Part",Johann Wolfgang von Goethe,3.86,130820,25326,342,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435405022i/14706._SY75_.jpg
+518,"The Tales of Beedle the Bard (Hogwarts Library, #3)",J.K. Rowling,4.04,501580,25165,362,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630876355i/3950967._SX50_.jpg
+519,High Fidelity,Nick Hornby,3.90,208500,25039,313,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327928082i/285092._SY75_.jpg
+520,The Shipping News,Annie Proulx,3.88,148881,24950,342,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554192241i/7354._SY75_.jpg
+521,Waiting for Godot,Samuel Beckett,3.84,211729,24829,332,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327910301i/17716._SY75_.jpg
+522,"The Chosen (Reuven Malther, #1)",Chaim Potok,4.07,95320,24680,335,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403191327i/187181._SY75_.jpg
+523,Shantaram,Gregory David Roberts (Goodreads Author),4.28,227385,24562,278,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333482282i/33600._SY75_.jpg
+524,To the Lighthouse,Virginia Woolf,3.80,198247,24440,329,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639106809i/59716._SY75_.jpg
+525,Houdini Heart,Ki Longfellow (Goodreads Author),3.84,5490,24357,252,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510418043i/11324204._SY75_.jpg
+526,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",C.S. Lewis,4.09,487829,24250,351,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661032500i/140225._SX50_.jpg
+527,Nineteen Minutes,Jodi Picoult (Goodreads Author),4.17,392387,24249,304,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348577596i/14866._SY75_.jpg
+528,"Neuromancer (Sprawl, #1)",William Gibson,3.89,344055,24095,299,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007._SY75_.jpg
+529,Redeeming Love,Francine Rivers (Goodreads Author),4.51,346639,24029,273,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550053167i/11422._SX50_.jpg
+530,The Reader,Bernhard Schlink,3.78,220677,24004,338,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735039201i/101299._SY75_.jpg
+531,"I, Robot (Robot, #0.1)",Isaac Asimov,4.21,361409,23866,331,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271i/41804._SY75_.jpg
+532,The Goldfinch,Donna Tartt,3.96,980662,23816,278,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378710146i/17333223._SY75_.jpg
+533,Night,Elie Wiesel,4.38,1301701,23712,298,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709507006i/1617._SY75_.jpg
+534,"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas (Goodreads Author),4.47,2195961,23696,274,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555221560i/23766634._SY75_.jpg
+535,"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien,4.57,968780,23659,322,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574117762i/838729._SY75_.jpg
+536,"The Lost Symbol (Robert Langdon, #3)",Dan Brown (Goodreads Author),3.76,628746,23656,306,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070883i/6411961._SY75_.jpg
+537,"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,4.34,711078,23615,313,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581625286i/10664113._SX50_.jpg
+538,A Christmas Carol,Charles Dickens,4.09,885455,23576,340,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406512317i/5326._SY75_.jpg
+539,The Exorcist,William Peter Blatty,4.20,250954,23433,331,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731395907i/179780._SY75_.jpg
+540,Emma,Jane Austen,4.05,925382,23429,309,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373627931i/6969._SY75_.jpg
+541,"The Inheritance Games (The Inheritance Games, #1)",Jennifer Lynn Barnes (Goodreads Author),4.14,904069,23217,257,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587396413i/52439531._SY75_.jpg
+542,The Age of Innocence,Edith Wharton,3.97,184097,23216,323,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388248423i/53835._SY75_.jpg
+543,Dubliners,James Joyce,3.84,164952,22924,323,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334138184i/11012._SX50_.jpg
+544,The Waste Land,T.S. Eliot,4.11,56388,22688,315,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597549396i/34080._SY75_.jpg
+545,The Republic,Plato,3.96,214347,22595,331,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925655i/30289._SY75_.jpg
+546,"Angels & Demons (Robert Langdon, #1)",Dan Brown (Goodreads Author),3.95,3296379,22125,286,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696691404i/960._SY75_.jpg
+547,"Voyager (Outlander, #3)",Diana Gabaldon (Goodreads Author),4.39,319884,22073,284,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483278195i/10987._SY75_.jpg
+548,"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward (Goodreads Author),4.43,184291,22016,268,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388773547i/42900._SY75_.jpg
+549,The Twilight Collection,Stephenie Meyer,3.82,46948,21979,281,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388187657i/690926._SX50_.jpg
+550,"City of Glass (The Mortal Instruments, #3)",Cassandra Clare (Goodreads Author),4.27,989599,21969,290,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369452339i/3777732._SY75_.jpg
+551,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells (Goodreads Author),3.86,563026,21943,323,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408313524i/137791._SY75_.jpg
+552,"Betrayed (House of Night, #2)",P.C. Cast (Goodreads Author),3.92,273232,21928,286,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406941788i/676924._SX50_.jpg
+553,The Pearl,John Steinbeck,3.55,253082,21920,342,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437234939i/5308._SY75_.jpg
+554,The Jungle,Upton Sinclair,3.77,149701,21789,303,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332140681i/41681._SY75_.jpg
+555,Me Talk Pretty One Day,David Sedaris,4.01,709175,21662,294,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431013639i/4137._SY75_.jpg
+556,Snow Falling on Cedars,David Guterson,3.86,190733,21553,310,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863528i/77142._SY75_.jpg
+557,"Untamed (House of Night, #4)",P.C. Cast (Goodreads Author),3.94,240910,21519,279,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438037020i/2866718._SY75_.jpg
+558,"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis,4.01,290381,21491,315,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814830i/84369._SY75_.jpg
+559,"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket (Goodreads Author),4.02,546841,21424,285,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436737029i/78411._SX50_.jpg
+560,"The 5th Wave (The 5th Wave, #1)",Rick Yancey,4.00,468800,21211,257,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359853842i/16101128._SX50_.jpg
+561,"I, Claudius (Claudius, #1)",Robert Graves,4.25,69574,21148,287,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657550972i/18765._SY75_.jpg
+562,Everything is Illuminated,Jonathan Safran Foer (Goodreads Author),3.89,181923,21111,261,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479774440i/256566._SY75_.jpg
+563,Those Empty Eyes,Charlie Donlea (Goodreads Author),4.17,56001,21087,222,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679436159i/62984900._SX50_.jpg
+564,"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien,4.49,1042913,20939,292,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486871714i/222910._SY75_.jpg
+565,"The Elite (The Selection, #2)",Kiera Cass (Goodreads Author),3.94,823617,20937,261,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454595i/16248068._SY75_.jpg
+566,A Room with a View,E.M. Forster,3.90,191984,20698,314,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388781285i/3087._SY75_.jpg
+567,The War of the Worlds,H.G. Wells,3.83,330792,20576,309,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320391644i/8909._SY75_.jpg
+568,Sense and Sensibility,Jane Austen,4.09,1240127,20492,288,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397245675i/14935._SY75_.jpg
+569,The Woman in White,Wilkie Collins,4.01,159788,20453,289,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295661017i/5890._SY75_.jpg
+570,Bleak House,Charles Dickens,4.02,111113,20356,284,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280113147i/31242._SY75_.jpg
+571,"The Wicked King (The Folk of the Air, #2)",Holly Black (Goodreads Author),4.28,923361,20257,233,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520620414i/26032887._SY75_.jpg
+572,The Complete Poems of Emily Dickinson,Emily Dickinson,4.28,102757,20244,314,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549999503i/112204._SY75_.jpg
+573,World War Z: An Oral History of the Zombie War,Max Brooks (Goodreads Author),4.02,546025,20149,256,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528312647i/8908._SX50_.jpg
+574,"A Discovery of Witches (All Souls, #1)",Deborah Harkness (Goodreads Author),4.02,526018,20089,240,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525097370i/8667848._SY75_.jpg
+575,"Sheever's Journal, Diary of a Poison Master",K. Ritz (Goodreads Author),4.30,17503,20019,210,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583221123i/52022378._SX50_.jpg
+576,"Chosen (House of Night, #3)",P.C. Cast (Goodreads Author),3.91,250072,19985,262,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393192825i/1326258._SX50_.jpg
+577,انتحار فاشل,أحمد جمال الدين رمضان,4.56,3205,19943,203,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465754541i/30528535._SX50_.jpg
+578,"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson (Goodreads Author),4.76,413098,19926,213,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1728768241i/17332218._SY75_.jpg
+579,"Unwind (Unwind, #1)",Neal Shusterman (Goodreads Author),4.17,239312,19863,234,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297677706i/764347._SX50_.jpg
+580,"Unravel Me (Shatter Me, #2)",Tahereh Mafi,4.12,651739,19857,237,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340287622i/13104080._SY75_.jpg
+581,What Lies in the Woods,Kate Alice Marshall (Goodreads Author),3.95,165641,19790,209,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652628677i/60784373._SY75_.jpg
+582,North and South,Elizabeth Gaskell,4.15,176177,19780,257,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699604581i/156538._SY75_.jpg
+583,Brideshead Revisited,Evelyn Waugh,4.00,120126,19749,267,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438579340i/30933._SY75_.jpg
+584,"The Queen of Nothing (The Folk of the Air, #3)",Holly Black (Goodreads Author),4.34,831625,19679,226,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553624975i/26032912._SX50_.jpg
+585,العصبي,أحمد جمال الدين رمضان,4.61,2797,19551,199,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465754782i/30528544._SX50_.jpg
+586,"The Witching Hour (Lives of the Mayfair Witches, #1)",Anne Rice,4.10,121037,19541,261,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327289387i/11901._SY75_.jpg
+587,Ugly Love,Colleen Hoover (Goodreads Author),4.02,2113335,19530,217,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632597571i/17788401._SY75_.jpg
+588,The God Delusion,Richard Dawkins (Goodreads Author),3.90,275458,19514,248,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347220693i/14743._SY75_.jpg
+589,"Shadow and Bone (The Shadow and Bone Trilogy, #1)",Leigh Bardugo (Goodreads Author),3.92,1021279,19481,235,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339533695i/10194157._SX50_.jpg
+590,Of Human Bondage,W. Somerset Maugham,4.15,59137,19399,270,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924695i/31548._SY75_.jpg
+591,"Bloodlines (Bloodlines, #1)",Richelle Mead (Goodreads Author),4.20,188748,19216,244,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297199431i/8709527._SY75_.jpg
+592,"The Iron King (The Iron Fey, #1)",Julie Kagawa (Goodreads Author),3.88,215917,19214,235,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327877670i/6644117._SY75_.jpg
+593,Macbeth,William Shakespeare,3.89,959396,19085,258,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459795224i/8852._SY75_.jpg
+594,"2001: A Space Odyssey (Space Odyssey, #1)",Arthur C. Clarke,4.17,324635,19016,257,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432468943i/70535._SY75_.jpg
+595,The Silent Patient,Alex Michaelides (Goodreads Author),4.18,2717988,19013,220,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951._SY75_.jpg
+596,Snow Crash,Neal Stephenson (Goodreads Author),4.02,288860,18855,221,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589842551i/40651883._SX50_.jpg
+597,The Left Hand of Darkness,Ursula K. Le Guin,4.10,199180,18854,238,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612i/18423._SY75_.jpg
+598,Johnny Got His Gun,Dalton Trumbo,4.20,46065,18744,229,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925458i/51606._SY75_.jpg
+598,"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind,4.12,250103,18744,225,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385248539i/43889._SY75_.jpg
+600,Vanity Fair,William Makepeace Thackeray,3.80,130693,18651,270,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344386439i/5797._SY75_.jpg
+601,Much Ado About Nothing,William Shakespeare,4.06,251155,18560,276,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327885569i/12957._SY75_.jpg
+602,Far From the Madding Crowd,Thomas Hardy,3.97,159509,18408,264,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631259654i/31463._SY75_.jpg
+603,A Monster Calls,Patrick Ness,4.35,277159,18301,207,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430763000i/25480342._SY75_.jpg
+604,"Bared to You (Crossfire, #1)",Sylvia Day (Goodreads Author),4.14,539477,18177,214,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433411511i/20448515._SY75_.jpg
+605,"Cannery Row (Cannery Row, #1)",John Steinbeck,4.06,145217,18159,265,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388188936i/4799._SX50_.jpg
+606,"Cry, the Beloved Country",Alan Paton,3.92,76678,18100,249,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344182368i/6150._SY75_.jpg
+607,The Polar Express,Chris Van Allsburg,4.32,244976,18098,286,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638557399i/420282._SX50_.jpg
+608,"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray (Goodreads Author),3.80,224441,18096,223,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284558475i/3682._SY75_.jpg
+609,"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles (Goodreads Author),4.04,261775,18078,214,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439792475i/4268157._SX50_.jpg
+610,Are You My Mother?,P.D. Eastman,4.21,248206,18073,271,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389098758i/197084._SX50_.jpg
+611,Sarah's Key,Tatiana de Rosnay (Goodreads Author),4.18,484545,18056,238,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438863728i/556602._SX50_.jpg
+612,"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery,4.23,211501,18040,280,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305545757i/77390._SY75_.jpg
+613,"Torment (Fallen, #2)",Lauren Kate (Goodreads Author),3.84,240092,18029,233,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362339749i/7740152._SY75_.jpg
+614,"Call Me By Your Name (Call Me By Your Name, #1)",André Aciman (Goodreads Author),4.10,544476,17947,196,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519203520i/36336078._SY75_.jpg
+615,"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas (Goodreads Author),4.63,942094,17856,210,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463107108i/28260587._SY75_.jpg
+616,Into Thin Air: A Personal Account of the Mt. Everest Disaster,Jon Krakauer (Goodreads Author),4.25,533334,17837,251,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631501298i/1898._SY75_.jpg
+617,"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder,4.21,296232,17797,280,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559209202i/77767._SX50_.jpg
+618,"Hyperion (Hyperion Cantos, #1)",Dan Simmons,4.27,273882,17750,209,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838i/77566._SY75_.jpg
+619,"The Red Pyramid (The Kane Chronicles, #1)",Rick Riordan (Goodreads Author),4.10,411400,17736,237,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661018382i/7090447._SY75_.jpg
+620,I'll Give You the Sun,Jandy Nelson (Goodreads Author),4.16,347411,17607,195,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608612077i/20820994._SX50_.jpg
+621,"Halfway to the Grave (Night Huntress, #1)",Jeaniene Frost (Goodreads Author),4.13,161289,17584,210,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373855613i/1421990._SY75_.jpg
+622,"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis,3.91,371370,17569,267,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703358949i/84119._SX50_.jpg
+623,"Chocolat (Chocolat, #1)",Joanne Harris (Goodreads Author),3.96,128295,17551,264,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388674628i/47401._SY75_.jpg
+624,"The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass (The Mortal Instruments, #1-3)",Cassandra Clare (Goodreads Author),4.55,68594,17533,225,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312016549i/6485421._SX50_.jpg
+625,"The Darkest Minds (The Darkest Minds, #1)",Alexandra Bracken (Goodreads Author),4.16,199818,17522,203,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343178841i/10576365._SY75_.jpg
+626,Daisy Jones & The Six,Taylor Jenkins Reid (Goodreads Author),4.20,1679288,17451,194,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580255154i/40597810._SY75_.jpg
+627,Cutting for Stone,Abraham Verghese (Goodreads Author),4.33,406739,17438,219,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553715166i/3591262._SX50_.jpg
+628,"They Both Die at the End (Death-Cast, #1)",Adam Silvera (Goodreads Author),3.75,807444,17420,192,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494333138i/33385229._SY75_.jpg
+629,"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin (Goodreads Author),4.02,187824,17379,201,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336655755i/11408650._SX50_.jpg
+630,"The Summoning (Darkest Powers, #1)",Kelley Armstrong (Goodreads Author),4.02,174611,17370,217,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478986944i/2800905._SY75_.jpg
+631,"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,4.21,277734,17362,273,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621570121i/8337._SX50_.jpg
+632,Just Listen,Sarah Dessen (Goodreads Author),4.05,248842,17353,211,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358270741i/51738._SY75_.jpg
+633,"Angelfall (Penryn & the End of Days, #1)",Susan Ee (Goodreads Author),4.11,194708,17351,199,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464206558i/15863832._SY75_.jpg
+634,"Sabriel (Abhorsen, #1)",Garth Nix (Goodreads Author),4.17,213261,17337,213,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293655399i/518848._SY75_.jpg
+635,"A Court of Silver Flames (A Court of Thorns and Roses, #4)",Sarah J. Maas (Goodreads Author),4.46,1644049,17329,195,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734440950i/53138095._SY75_.jpg
+636,"Cress (The Lunar Chronicles, #3)",Marissa Meyer (Goodreads Author),4.40,386961,17316,210,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470057005i/13206828._SY75_.jpg
+637,The Last Lecture,Randy Pausch,4.26,354800,17179,214,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529682044i/40611510._SX50_.jpg
+638,"Silence (Hush, Hush, #3)",Becca Fitzpatrick (Goodreads Author),4.07,289766,17152,220,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362408152i/10637766._SY75_.jpg
+639,No Country for Old Men,Cormac McCarthy,4.16,221014,17109,230,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443231179i/12497._SY75_.jpg
+640,The Art of War,Sun Tzu,3.95,528638,17104,237,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630683326i/10534._SY75_.jpg
+641,Taming Flame,Therisa Peimer (Goodreads Author),4.29,17233,17085,179,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658244114i/61608233._SX50_.jpg
+642,The Westing Game,Ellen Raskin,4.00,223320,17058,222,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356850909i/902._SX50_.jpg
+643,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson (Goodreads Author),3.66,358472,17012,233,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395407074i/49436._SY75_.jpg
+644,Twelfth Night,William Shakespeare,3.96,189110,16996,260,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561384026i/1625._SY75_.jpg
+645,"Trainspotting (Mark Renton, #2)",Irvine Welsh,4.11,172304,16940,210,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353033083i/135836._SY75_.jpg
+646,The Truth About Forever,Sarah Dessen (Goodreads Author),4.12,224751,16931,207,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362767907i/51737._SY75_.jpg
+647,"Swann’s Way (In Search of Lost Time, #1)",Marcel Proust,4.15,64153,16835,214,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735845760i/12749._SX50_.jpg
+648,Nine Stories,J.D. Salinger,4.18,151158,16784,224,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554892563i/4009._SY75_.jpg
+649,"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer (Goodreads Author),4.24,440922,16780,211,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470056982i/13206760._SY75_.jpg
+650,Sapiens: A Brief History of Humankind,Yuval Noah Harari,4.35,1141043,16699,185,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271._SY75_.jpg
+651,"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris (Goodreads Author),4.12,263615,16693,225,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468561630i/140077._SY75_.jpg
+652,"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore,3.94,347083,16666,214,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305807140i/7747374._SY75_.jpg
+653,"Ishmael (Ishmael, #1)",Daniel Quinn,4.01,100748,16644,201,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529680413i/40611328._SY75_.jpg
+654,"Heartstopper: Volume One (Heartstopper, #1)",Alice Oseman (Goodreads Author),4.44,812021,16623,190,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712679126i/40495957._SY75_.jpg
+655,A Man Called Ove,Fredrik Backman (Goodreads Author),4.38,1117743,16595,192,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259930i/18774964._SY75_.jpg
+656,"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle (Goodreads Author),4.16,116259,16593,210,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524764327i/29127._SY75_.jpg
+657,"The Goose Girl (The Books of Bayern, #1)",Shannon Hale (Goodreads Author),4.14,145935,16583,205,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617553319i/179064._SY75_.jpg
+658,I Capture the Castle,Dodie Smith,3.99,109311,16577,213,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385316083i/31122._SX50_.jpg
+659,Lady Chatterley’s Lover,D.H. Lawrence,3.50,131347,16572,258,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1215571713i/32049._SY75_.jpg
+660,Verity,Colleen Hoover (Goodreads Author),4.31,3264688,16461,182,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634158558i/59344312._SY75_.jpg
+661,"The Bronze Horseman (The Bronze Horseman, #1)",Paullina Simons,4.29,90159,16460,181,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327921996i/83144._SY75_.jpg
+662,"Slammed (Slammed, #1)",Colleen Hoover (Goodreads Author),4.15,414297,16437,187,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464826448i/30333938._SY75_.jpg
+663,Demian,Hermann Hesse,4.14,123184,16413,202,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421510580i/24861._SY75_.jpg
+664,Pericles and Aspasia: A Story of Ancient Greece,Yvonne Korshak (Goodreads Author),4.29,16139,16408,172,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665706704i/62986809._SY75_.jpg
+665,The Love Hypothesis,Ali Hazelwood (Goodreads Author),4.12,1577889,16386,181,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611937942i/56732449._SX50_.jpg
+666,"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card,4.10,263266,16364,208,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295660894i/7967._SY75_.jpg
+667,Cyrano de Bergerac,Edmond Rostand,4.07,87560,16260,233,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920459i/15638._SY75_.jpg
+668,"You Are Special (Wemmicksville, #1)",Max Lucado (Goodreads Author),4.45,53136,16170,191,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348346102i/56728._SX50_.jpg
+669,The Hours,Michael Cunningham (Goodreads Author),3.95,145003,16155,231,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479663379i/11899._SY75_.jpg
+670,"Drums of Autumn (Outlander, #4)",Diana Gabaldon (Goodreads Author),4.35,260082,16149,206,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536699977i/40909452._SY75_.jpg
+671,"Acheron (Dark-Hunter, #14)",Sherrilyn Kenyon (Goodreads Author),4.56,60839,16110,186,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437687512i/2299110._SY75_.jpg
+672,"Captive in the Dark (The Dark Duet, #1)",C.J. Roberts (Goodreads Author),3.94,74189,16086,174,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315343569i/12513614._SX50_.jpg
+673,The Arabian Nights,Anonymous,4.03,79043,16037,239,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657544409i/93101._SY75_.jpg
+674,"World Without End (Kingsbridge, #2)",Ken Follett (Goodreads Author),4.32,262638,16022,215,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509545511i/5064._SY75_.jpg
+675,Julius Caesar,William Shakespeare,3.71,211411,16005,254,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631505382i/13006._SX50_.jpg
+676,The Glass Menagerie,Tennessee Williams,3.73,137583,15955,263,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391591003i/92517._SY75_.jpg
+677,"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin,4.01,337018,15951,211,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353424536i/13642._SY75_.jpg
+678,We Need to Talk About Kevin,Lionel Shriver (Goodreads Author),4.08,203012,15798,196,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327865017i/80660._SY75_.jpg
+679,"The Talisman (The Talisman, #1)",Stephen King (Goodreads Author),4.11,135208,15730,208,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170530286i/59219._SX50_.jpg
+680,"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness,3.97,199147,15667,179,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534503008i/20758104._SY75_.jpg
+681,"1Q84 (1Q84, #1-3)",Haruki Murakami,3.95,326348,15564,184,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483103331i/10357575._SX50_.jpg
+682,"Caraval (Caraval, #1)",Stephanie Garber (Goodreads Author),3.97,690837,15477,170,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465563623i/27883214._SY75_.jpg
+683,"Hunted (House of Night, #5)",P.C. Cast (Goodreads Author),3.93,187378,15441,204,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438042897i/4134071._SY75_.jpg
+684,"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch (Goodreads Author),4.31,315619,15439,174,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458646334i/29588376._SY75_.jpg
+685,"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice,3.92,157238,15411,219,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871992i/43758._SY75_.jpg
+686,Gray After Dark,Noelle W. Ihli (Goodreads Author),4.24,48429,15398,162,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708240567i/204787816._SY75_.jpg
+687,House of Leaves,Mark Z. Danielewski (Goodreads Author),4.09,183912,15370,174,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403889034i/24800._SX50_.jpg
+688,"The Scorch Trials (The Maze Runner, #2)",James Dashner (Goodreads Author),3.90,611467,15362,200,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388240248i/7631105._SY75_.jpg
+689,"P.S. I Love You (P.S. I Love You, #1)",Cecelia Ahern,4.04,389297,15352,198,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392344536i/366522._SX50_.jpg
+690,Interpreter of Maladies,Jhumpa Lahiri,4.18,199810,15275,202,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442586143i/5439._SY75_.jpg
+691,"A Dog's Purpose (A Dog's Purpose, #1)",W. Bruce Cameron (Goodreads Author),4.35,136541,15253,178,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564936796i/7723542._SY75_.jpg
+692,Before I Fall,Lauren Oliver (Goodreads Author),3.88,342211,15186,182,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361044695i/6482837._SY75_.jpg
+693,"The Silver Chair (Chronicles of Narnia, #4)",C.S. Lewis,3.96,313920,15132,238,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661032839i/65641._SY75_.jpg
+694,"The Bean Trees (Greer Family, #1)",Barbara Kingsolver,4.01,165064,15123,221,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443483961i/30868._SY75_.jpg
+695,"Carry On (Simon Snow, #1)",Rainbow Rowell (Goodreads Author),4.16,324277,15105,174,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481729252i/32768522._SX50_.jpg
+696,No One Can Know,Kate Alice Marshall (Goodreads Author),3.67,63224,15065,159,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684451250i/127305892._SY75_.jpg
+697,The Glass Castle,Jeannette Walls (Goodreads Author),4.32,1287161,15054,187,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523542886i/7445._SY75_.jpg
+698,"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr (Goodreads Author),3.70,165076,15040,188,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327814035i/305234._SX50_.jpg
+699,"Red Rising (Red Rising Saga, #1)",Pierce Brown (Goodreads Author),4.27,559235,15037,172,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651i/15839976._SY75_.jpg
+700,Ask for Andrea,Noelle W. Ihli (Goodreads Author),4.09,142274,15016,158,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642696843i/60168787._SX50_.jpg
+701,The Club,Ellery Lloyd (Goodreads Author),3.29,116639,15002,159,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644230879i/58536005._SY75_.jpg
+702,"The Secret (The Secret, #1)",Rhonda Byrne,3.73,506146,14997,197,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659289885i/52529._SX50_.jpg
+703,A Brief History of Time,Stephen Hawking,4.21,455257,14993,214,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746i/3869._SX50_.jpg
+704,"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini (Goodreads Author),4.16,294287,14931,193,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390886502i/7664041._SX50_.jpg
+705,"Inferno (Robert Langdon, #4)",Dan Brown (Goodreads Author),3.90,571424,14914,189,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070896i/17212231._SY75_.jpg
+706,"Guards! Guards! (Discworld, #8; City Watch, #1)",Terry Pratchett,4.34,221627,14831,177,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431127356i/64216._SY75_.jpg
+707,The Merchant of Venice,William Shakespeare,3.78,195450,14804,238,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871054i/24128._SY75_.jpg
+708,Invisible Monsters,Chuck Palahniuk (Goodreads Author),4.00,147147,14790,181,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508534066i/36236125._SX50_.jpg
+709,"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis,3.98,460667,14768,253,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814880i/121749._SY75_.jpg
+710,Normal People,Sally Rooney (Goodreads Author),3.81,1626004,14755,160,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190i/41057294._SY75_.jpg
+711,All the King's Men,Robert Penn Warren,4.09,64942,14739,203,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342193852i/5527._SY75_.jpg
+712,Head Like a Hole,Andrew Van Wey (Goodreads Author),3.86,5372,14721,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659300362i/61800582._SY75_.jpg
+713,"The Eyre Affair (Thursday Next, #1)",Jasper Fforde (Goodreads Author),3.89,134952,14715,187,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445540555i/27003._SY75_.jpg
+713,One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn,3.98,119505,14715,213,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574794164i/17125._SY75_.jpg
+715,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward (Goodreads Author),4.32,197006,14713,187,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300845974i/35729._SY75_.jpg
+716,The Holy Bible: King James Version,Anonymous,4.44,302230,14710,181,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631816305i/1923820._SY75_.jpg
+717,"Into the Wild (Warriors, #1)",Erin Hunter,4.31,112677,14693,168,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327994729i/111332._SX50_.jpg
+718,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han (Goodreads Author),4.04,975829,14675,174,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372086100i/15749186._SY75_.jpg
+719,"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas (Goodreads Author),4.71,809865,14651,166,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531922609i/33590260._SY75_.jpg
+720,The Ocean at the End of the Lane,Neil Gaiman (Goodreads Author),4.02,642882,14543,170,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497098563i/15783514._SY75_.jpg
+721,I Am Legend and Other Stories,Richard Matheson,4.00,133897,14512,196,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317791583i/547094._SY75_.jpg
+722,"Not Forever, But For Now",Chuck Palahniuk (Goodreads Author),3.08,4324,14506,153,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687711848i/101145468._SY75_.jpg
+723,"Think Twice (Myron Bolitar, #12)",Harlan Coben (Goodreads Author),4.28,34910,14497,153,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697047908i/198494009._SY75_.jpg
+724,The Roommate,Kiersten Modglin (Goodreads Author),3.86,9216,14467,153,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613149059i/57040367._SY75_.jpg
+725,The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman,4.08,318649,14463,205,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327909237i/99300._SY75_.jpg
+726,Look Closer,David Ellis,4.19,92794,14459,153,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650843418i/59316367._SY75_.jpg
+727,We Have Always Lived in the Castle,Shirley Jackson,3.92,258992,14395,168,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704229774i/89724._SX50_.jpg
+728,Gravity’s Rainbow,Thomas Pynchon,4.01,45957,14290,167,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657594227i/415._SY75_.jpg
+729,Something Wicked This Way Comes,Ray Bradbury,3.90,142577,14282,194,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409596011i/248596._SY75_.jpg
+730,Foucault’s Pendulum,Umberto Eco,3.91,72579,14231,187,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396645125i/17841._SY75_.jpg
+731,"Poison Study (Study, #1)",Maria V. Snyder (Goodreads Author),4.09,171396,14157,171,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388519019i/60510._SY75_.jpg
+732,The Bluest Eye,Toni Morrison,4.12,273263,14154,184,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388208495i/11337._SX50_.jpg
+733,Starship Troopers,Robert A. Heinlein,4.01,236569,14106,175,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412i/17214._SY75_.jpg
+734,Seabiscuit: An American Legend,Laura Hillenbrand,4.23,165651,14101,206,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1171644213i/110737._SY75_.jpg
+735,Peace Like a River,Leif Enger,4.02,96353,14067,170,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436139976i/227571._SY75_.jpg
+736,"Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",Jules Verne,3.89,264645,14059,207,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494979127i/33507._SX50_.jpg
+737,"Oedipus Rex (The Theban Plays, #1)",Sophocles,3.72,226900,14005,209,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388182316i/1554._SY75_.jpg
+738,"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum,4.05,437026,14000,206,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335860740i/7869._SY75_.jpg
+739,"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb (Goodreads Author),4.19,356919,13989,169,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673728072i/77197._SY75_.jpg
+740,Battle Royale,Koushun Takami,4.26,80494,13984,160,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331235272i/57891._SY75_.jpg
+741,The Girl Who Was Taken,Charlie Donlea (Goodreads Author),4.20,124216,13922,147,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522156793i/39657755._SY75_.jpg
+742,The History of Love,Nicole Krauss,3.92,138153,13871,168,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327911009i/3867._SY75_.jpg
+743,"The Blood of Olympus (The Heroes of Olympus, #5)",Rick Riordan (Goodreads Author),4.43,362789,13856,180,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201441i/18705209._SY75_.jpg
+744,Mythology,Edith Hamilton,4.03,57781,13848,209,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305000423i/23522._SY75_.jpg
+745,Dandelion Wine,Ray Bradbury,4.08,74241,13809,172,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374049845i/50033._SY75_.jpg
+746,The Memory Keeper's Daughter,Kim Edwards (Goodreads Author),3.70,606363,13798,194,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631287935i/10441._SY75_.jpg
+747,"Corrupt (Devil's Night, #1)",Penelope Douglas (Goodreads Author),3.80,350074,13767,147,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621729447i/58124274._SY75_.jpg
+748,"Where She Went (If I Stay, #2)",Gayle Forman (Goodreads Author),3.97,300679,13750,174,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347810457i/8492825._SX50_.jpg
+749,"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare (Goodreads Author),4.11,965590,13738,196,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730356i/1582996._SY75_.jpg
+750,"Simon vs. the Homo Sapiens Agenda (Simonverse, #1)",Becky Albertalli (Goodreads Author),4.14,455444,13727,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402915678i/19547856._SY75_.jpg
+751,The Night Before Christmas,Clement Clarke Moore,4.40,125754,13720,223,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388370094i/196970._SX50_.jpg
+752,Native Son,Richard Wright,4.03,101445,13707,198,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627788308i/15622._SX50_.jpg
+753,A People’s History of the United States: 1492 - Present,Howard Zinn,4.08,253652,13699,187,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494279423i/2767._SY75_.jpg
+754,"Viciously Yours (Fae Kings of Eden, #1)",Jamie Applegate Hunter (Goodreads Author),3.61,33234,13669,144,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705307599i/205404157._SY75_.jpg
+755,"Magical Midlife Awakening (Leveling Up, #9)",K.F. Breene (Goodreads Author),4.62,9695,13656,143,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706048401i/205840559._SY75_.jpg
+756,"Consequences (Consequences, #1)",Aleatha Romig (Goodreads Author),3.92,42854,13625,146,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350233855i/12368985._SY75_.jpg
+757,"Being a Witch, and Other Things I Didn't Ask For",Sara Pascoe (Goodreads Author),4.30,20301,13618,143,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486484628i/34186576._SX50_.jpg
+758,"Oryx and Crake (MaddAddam, #1)",Margaret Atwood (Goodreads Author),4.01,276866,13553,175,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668379066i/46756._SY75_.jpg
+759,Watchers,Dean Koontz (Goodreads Author),4.19,167942,13523,170,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532695250i/32423._SY75_.jpg
+760,"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara,4.33,88820,13458,174,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355371689i/682804._SX50_.jpg
+761,Murder on Family Grounds (Mary Wandwalker #3),Susan Rowland (Goodreads Author),4.30,17502,13450,142,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705391004i/205338104._SX50_.jpg
+762,On Writing: A Memoir of the Craft,Stephen King (Goodreads Author),4.34,302003,13449,176,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436735207i/10569._SY75_.jpg
+763,"Left Behind (Left Behind, #1)",Tim LaHaye,3.86,240256,13393,181,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406505054i/27523._SY75_.jpg
+764,"Truth (Consequences, #2)",Aleatha Romig (Goodreads Author),4.34,32480,13392,142,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398768721i/16070018._SY75_.jpg
+765,If on a Winter’s Night a Traveler,Italo Calvino,4.03,104419,13375,165,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528312857i/374233._SY75_.jpg
+766,"Champion (Legend, #3)",Marie Lu (Goodreads Author),4.31,225982,13345,160,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382652310i/14290364._SY75_.jpg
+767,"Better than the Movies (Better than the Movies, #1)",Lynn Painter (Goodreads Author),4.28,548412,13335,144,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618150545i/55710822._SY75_.jpg
+768,"The Fiery Cross (Outlander, #5)",Diana Gabaldon (Goodreads Author),4.26,219105,13280,174,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407366842i/10967._SY75_.jpg
+769,"The House in the Cerulean Sea (Cerulean Chronicles, #1)",T.J. Klune (Goodreads Author),4.39,775539,13279,150,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569514209i/45047384._SY75_.jpg
+770,"Gone (Gone, #1)",Michael Grant (Goodreads Author),3.87,206191,13256,159,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357796831i/2536134._SY75_.jpg
+771,The Shards,Bret Easton Ellis,4.00,32928,13214,139,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658241203i/60880820._SX50_.jpg
+772,Grimm's Fairy Tales,Jacob Grimm,4.24,215527,13194,221,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386705031i/19351490._SX50_.jpg
+773,"Darkfever (Fever, #1)",Karen Marie Moning (Goodreads Author),4.06,185604,13185,170,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726371112i/112750._SY75_.jpg
+774,The Drowning Woman,Robyn Harding (Goodreads Author),4.05,117724,13154,139,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681110477i/62874245._SY75_.jpg
+775,"Alanna: The First Adventure (Song of the Lioness, #1)",Tamora Pierce (Goodreads Author),4.27,133760,13106,163,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388206270i/13831._SY75_.jpg
+776,"Night Watch (Discworld, #29; City Watch, #6)",Terry Pratchett,4.50,114488,13089,163,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518310i/47989._SY75_.jpg
+777,"One for the Money (Stephanie Plum, #1)",Janet Evanovich (Goodreads Author),4.05,566271,13085,177,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316730230i/6853._SY75_.jpg
+778,"Shadowfever (Fever, #5)",Karen Marie Moning (Goodreads Author),4.39,111036,13080,152,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439940228i/7304203._SY75_.jpg
+779,John Adams,David McCullough,4.08,368565,13048,180,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478144278i/2203._SX50_.jpg
+780,The Wasp Factory,Iain Banks,3.76,102362,13041,157,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434940562i/567678._SY75_.jpg
+781,The Long Walk,Richard Bachman (Pseudonym),4.07,206057,13037,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309212400i/9014._SY75_.jpg
+781,"Storm Front (The Dresden Files, #1)",Jim Butcher (Goodreads Author),3.97,364403,13037,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572991273i/47212._SY75_.jpg
+783,The Iliad,Homer,3.92,478980,13030,170,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625333695i/1371._SX50_.jpg
+784,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,4.16,214968,13008,182,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327784751i/3980._SY75_.jpg
+785,"The Dark Tower (The Dark Tower, #7)",Stephen King (Goodreads Author),4.28,180787,12992,165,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372296329i/5091._SY75_.jpg
+786,"A Breath of Snow and Ashes (Outlander, #6)",Diana Gabaldon (Goodreads Author),4.44,184994,12972,168,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734099153i/10965._SY75_.jpg
+787,The Magus,John Fowles,4.05,60938,12964,167,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441323311i/16286._SY75_.jpg
+788,Rosencrantz and Guildenstern Are Dead,Tom Stoppard,4.04,91261,12917,181,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338735611i/18545._SY75_.jpg
+789,"Killing Sarai (In the Company of Killers, #1)",J.A. Redmerski,4.08,32543,12912,138,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389883928i/20559676._SY75_.jpg
+790,Educated,Tara Westover (Goodreads Author),4.47,1683789,12903,146,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635i/35133922._SY75_.jpg
+791,"Pretties (Uglies, #2)",Scott Westerfeld (Goodreads Author),3.83,272794,12890,175,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388314207i/24768._SX50_.jpg
+792,"The Hero of Ages (Mistborn, #3)",Brandon Sanderson (Goodreads Author),4.55,496737,12849,148,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628563911i/2767793._SY75_.jpg
+793,Possession,A.S. Byatt,3.90,81996,12843,175,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391124124i/41219._SY75_.jpg
+794,Papillon,Henri Charrière,4.23,72629,12830,178,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327865561i/6882._SY75_.jpg
+795,The Polymorph,Max Nowaz (Goodreads Author),4.28,15503,12785,136,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675618392i/101265124._SY75_.jpg
+796,Archer's Voice,Mia Sheridan (Goodreads Author),4.19,584546,12779,145,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656593818i/32822135._SY75_.jpg
+797,"Lover Unbound (Black Dagger Brotherhood, #5)",J.R. Ward (Goodreads Author),4.31,137589,12734,167,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351276662i/304027._SY75_.jpg
+798,"Good Girl, Bad Blood (A Good Girl's Guide to Murder, #2)",Holly Jackson (Goodreads Author),4.27,650373,12692,140,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588319723i/51335759._SY75_.jpg
+799,The Blind Assassin,Margaret Atwood (Goodreads Author),3.96,159404,12678,176,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445426i/78433._SY75_.jpg
+800,"One of Us Is Lying (One of Us is Lying, #1)",Karen M. McManus (Goodreads Author),3.92,957838,12660,142,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632078539i/58679358._SY75_.jpg
+801,"The Murder of Roger Ackroyd (Hercule Poirot, #4)",Agatha Christie,4.27,304662,12600,176,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389734015i/16328._SY75_.jpg
+802,The Agony and the Ecstasy,Irving Stone,4.09,92301,12566,167,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327879079i/321552._SY75_.jpg
+803,"The Death Cure (The Maze Runner, #3)",James Dashner (Goodreads Author),3.78,474353,12561,163,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303997647i/7864437._SY75_.jpg
+804,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares,3.85,721316,12556,178,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461611233i/452306._SY75_.jpg
+805,House of Sand and Fog,Andre Dubus III,3.86,134605,12552,179,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519083021i/38311414._SX50_.jpg
+806,The Sirens of Titan,Kurt Vonnegut Jr.,4.15,149451,12527,155,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419363185i/4982._SY75_.jpg
+807,Cosmos,Carl Sagan,4.40,152320,12516,167,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388620656i/55030._SX50_.jpg
+808,"Death on the Nile (Hercule Poirot, #18)",Agatha Christie,4.12,281878,12497,196,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486837149i/131359._SY75_.jpg
+809,"Tears of Tess (Monsters in the Dark, #1)",Pepper Winters (Goodreads Author),4.00,41460,12472,133,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372821993i/18134894._SY75_.jpg
+810,"Odd Thomas (Odd Thomas, #1)",Dean Koontz (Goodreads Author),3.99,272623,12447,169,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388245669i/14995._SY75_.jpg
+811,The Very Secret Society of Irregular Witches,Sangu Mandanna (Goodreads Author),4.07,260142,12433,132,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643062993i/60018635._SX50_.jpg
+812,If We Were Villains,M.L. Rio (Goodreads Author),4.13,343933,12422,136,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717682i/30319086._SY75_.jpg
+813,"It Ain't Me, Babe (Hades Hangmen, #1)",Tillie Cole (Goodreads Author),4.04,55050,12416,133,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398707039i/22020052._SY75_.jpg
+814,"House of Earth and Blood (Crescent City, #1)",Sarah J. Maas (Goodreads Author),4.46,903589,12409,141,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559142847i/44778083._SY75_.jpg
+815,Under the Dome,Stephen King (Goodreads Author),3.92,311540,12333,171,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511289992i/6320534._SY75_.jpg
+816,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,4.01,874273,12320,163,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827i/1202._SX50_.jpg
+817,Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,4.25,97184,12319,194,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604058784i/76401._SX50_.jpg
+818,Veronika Decides to Die,Paulo Coelho (Goodreads Author),3.73,231544,12304,152,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348139939i/1431._SY75_.jpg
+819,How to Win Friends & Influence People,Dale Carnegie,4.23,1068180,12293,171,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934i/4865._SX50_.jpg
+820,Geek Love,Katherine Dunn,3.95,70142,12167,150,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636594691i/13872._SY75_.jpg
+821,"Prodigy (Legend, #2)",Marie Lu (Goodreads Author),4.22,272445,12096,150,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336254717i/13414446._SY75_.jpg
+822,A Heartbreaking Work of Staggering Genius,Dave Eggers,3.69,182100,12090,155,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327714834i/4953._SY75_.jpg
+823,"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr,4.06,177402,12071,171,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388256626i/40024._SY75_.jpg
+824,Corelli’s Mandolin,Louis de Bernières,4.03,90580,12067,163,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479680795i/3388._SY75_.jpg
+825,A Winter Grave,Peter May (Goodreads Author),4.08,8439,12008,127,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671083731i/67998095._SY75_.jpg
+826,"The Girl in the Eagle's Talons (Millennium, #7)",Karin Smirnoff,3.43,16588,11957,127,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698252152i/75523433._SX50_.jpg
+827,The Elegance of the Hedgehog,Muriel Barbery,3.80,191886,11946,152,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347755370i/2967752._SY75_.jpg
+828,"Souls Unfractured (Hades Hangmen, #3)",Tillie Cole (Goodreads Author),4.41,27887,11928,127,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429054401i/22107214._SY75_.jpg
+829,The Witch of Blackbird Pond,Elizabeth George Speare,4.02,156247,11910,170,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345499790i/703292._SY75_.jpg
+830,Anthem,Ayn Rand,3.61,161377,11908,157,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388190459i/667._SY75_.jpg
+831,"Tempted (House of Night, #6)",P.C. Cast (Goodreads Author),3.95,171029,11889,163,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408633041i/6262365._SY75_.jpg
+832,"As Good As Dead (A Good Girl's Guide to Murder, #3)",Holly Jackson (Goodreads Author),4.20,465973,11854,127,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623112782i/56905097._SY75_.jpg
+833,The Book of Mormon: Another Testament of Jesus Christ,Joseph Smith Jr.,4.24,88825,11846,130,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327389004i/323355._SX50_.jpg
+834,The Aeneid,Virgil,3.87,136176,11842,173,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923968i/12914._SY75_.jpg
+835,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter (Goodreads Author),3.84,191417,11786,148,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334491180i/852470._SX50_.jpg
+836,"Love Story (Love Story, #1)",Erich Segal,3.65,62552,11740,184,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388812297i/73968._SY75_.jpg
+837,Prodigal Summer,Barbara Kingsolver,4.04,120149,11733,162,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426308771i/14249._SY75_.jpg
+838,The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher (Goodreads Author),3.81,4007,11723,121,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388535774i/18300212._SY75_.jpg
+839,Jitterbug Perfume,Tom Robbins,4.23,78510,11722,148,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388607752i/8682._SY75_.jpg
+840,Ficciones,Jorge Luis Borges,4.41,72723,11683,141,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621713120i/426504._SY75_.jpg
+841,"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith (Goodreads Author),3.81,270554,11678,180,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459953654i/7061._SY75_.jpg
+842,Howl and Other Poems,Allen Ginsberg,4.13,115645,11641,164,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668784961i/6295._SX50_.jpg
+843,Ivanhoe,Walter Scott,3.76,96846,11625,176,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715643510i/6440._SY75_.jpg
+844,"The High Auction (Wisdom Revolution, #1)",Misba (Goodreads Author),4.70,16441,11609,119,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643167769i/60215314._SY75_.jpg
+845,"Scythe (Arc of a Scythe, #1)",Neal Shusterman (Goodreads Author),4.32,362133,11607,128,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172676i/28954189._SY75_.jpg
+846,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas (Goodreads Author),4.18,3461259,11591,130,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620324329i/50659467._SY75_.jpg
+847,"The Oldest Dance (Wisdom Revolution, #2)",Misba (Goodreads Author),4.71,13506,11562,119,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643167654i/60215458._SY75_.jpg
+848,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,3.95,161682,11508,157,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371584712i/2052._SY75_.jpg
+849,"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr.,3.99,114157,11502,154,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450516880i/164154._SY75_.jpg
+850,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,4.18,209600,11475,191,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1165640023i/7770._SX50_.jpg
+851,"Ender's Shadow (The Shadow Series, #1)",Orson Scott Card,4.32,176061,11465,146,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424904668i/9532._SY75_.jpg
+852,Digital Fortress,Dan Brown (Goodreads Author),3.70,650607,11443,149,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360095966i/11125._SY75_.jpg
+853,Message in a Bottle,Nicholas Sparks (Goodreads Author),3.98,243290,11432,166,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1163789140i/3478._SY75_.jpg
+854,"The Color of Magic (Discworld, #1; Rincewind, #1)",Terry Pratchett,4.00,403605,11416,158,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407111017i/34497._SY75_.jpg
+855,The Story of My Life,Helen Keller,4.08,149221,11399,192,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320429331i/821611._SY75_.jpg
+856,"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella (Goodreads Author),3.71,784084,11383,151,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546503932i/9416._SX50_.jpg
+857,"Princess Academy (Princess Academy, #1)",Shannon Hale (Goodreads Author),4.04,119405,11367,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349410861i/85990._SY75_.jpg
+858,The Magic Mountain,Thomas Mann,4.13,53551,11361,146,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645738968i/88077._SY75_.jpg
+859,Mistress Suffragette,Diana Forbes (Goodreads Author),4.29,4591,11360,127,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489112488i/34521870._SX50_.jpg
+860,Twenty Years Later,Charlie Donlea (Goodreads Author),4.20,137814,11356,119,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632079606i/57645345._SY75_.jpg
+861,Keep It in the Family,John Marrs (Goodreads Author),4.08,141979,11345,120,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645979128i/60109530._SY75_.jpg
+862,"Rubinrot (Edelstein-Trilogie, #1)",Kerstin Gier,4.13,162725,11330,132,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327918185i/6325285._SX50_.jpg
+863,Swan Song,Robert McCammon,4.30,71677,11329,129,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445981000i/11557._SY75_.jpg
+864,"Inara (Godfrey Davis, #3)",A.R. Merrydew (Goodreads Author),4.36,6427,11304,124,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719253079i/215186841._SY75_.jpg
+865,Around the World in Eighty Days,Jules Verne,3.95,264998,11299,180,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684014860i/54479._SY75_.jpg
+866,It's Kind of a Funny Story,Ned Vizzini,4.08,257429,11294,130,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420629730i/248704._SX50_.jpg
+867,"Fablehaven (Fablehaven, #1)",Brandon Mull (Goodreads Author),4.13,171539,11278,140,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460309528i/44652._SX50_.jpg
+868,The Midnight Library,Matt Haig (Goodreads Author),3.99,2101951,11241,132,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602190253i/52578297._SY75_.jpg
+869,The White Tiger,Aravind Adiga,3.77,197397,11238,129,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710937569i/1768603._SY75_.jpg
+870,The Invention of Hugo Cabret,Brian Selznick,4.22,186527,11205,148,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422312376i/9673436._SY75_.jpg
+871,Walk Two Moons,Sharon Creech,4.00,170578,11198,144,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389035862i/53496._SY75_.jpg
+872,Orlando,Virginia Woolf,3.88,103081,11180,152,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443118010i/18839._SY75_.jpg
+873,"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris (Goodreads Author),3.96,258471,11179,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329501808i/110494._SY75_.jpg
+874,Project Hail Mary,Andy Weir (Goodreads Author),4.50,722322,11168,125,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864i/54493401._SY75_.jpg
+875,"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris (Goodreads Author),4.02,241273,11166,162,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329501590i/140082._SY75_.jpg
+876,"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir (Goodreads Author),4.25,317567,11097,126,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519425615i/27774758._SY75_.jpg
+877,"Glass Houses (The Morganville Vampires, #1)",Rachel Caine,3.92,102414,11090,144,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428057864i/27266._SY75_.jpg
+878,Because of Winn-Dixie,Kate DiCamillo (Goodreads Author),4.10,267995,11070,157,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456871914i/357664._SX50_.jpg
+879,Hard-Boiled Wonderland and the End of the World,Haruki Murakami,4.12,144076,11068,135,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399844477i/10374._SY75_.jpg
+880,"Antigone (The Theban Plays, #3)",Sophocles,3.67,164762,11060,169,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486701308i/7728._SY75_.jpg
+881,The Shell Seekers,Rosamunde Pilcher,4.19,115182,11056,169,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385213408i/37095._SY75_.jpg
+882,Meditations,Marcus Aurelius,4.28,294568,11029,137,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421618636i/30659._SY75_.jpg
+883,Angle of Repose,Wallace Stegner,4.24,60497,11015,142,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329151576i/292408._SY75_.jpg
+884,Song of Solomon,Toni Morrison,4.15,119659,11014,157,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632283992i/11334._SY75_.jpg
+885,The Power of Myth,Joseph Campbell,4.26,52419,10983,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878742i/35519._SY75_.jpg
+886,Holy Bible: New International Version,Anonymous,4.62,92446,10971,139,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631965680i/280111._SY75_.jpg
+887,"Lover Revealed (Black Dagger Brotherhood, #4)",J.R. Ward (Goodreads Author),4.28,140370,10962,147,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389646548i/42898._SY75_.jpg
+888,"Powerless (The Powerless Trilogy, #1)",Lauren Roberts (Goodreads Author),4.18,560806,10957,114,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672676191i/75513900._SX50_.jpg
+889,One Day,David Nicholls,3.86,384800,10951,133,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873020i/6280118._SY75_.jpg
+890,"The Passage (The Passage, #1)",Justin Cronin (Goodreads Author),4.05,217619,10940,135,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327874267i/6690798._SY75_.jpg
+891,The Jungle Books,Rudyard Kipling,4.01,88280,10906,184,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349066474i/41684._SY75_.jpg
+892,The Corrections,Jonathan Franzen,3.84,190464,10885,148,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355011305i/3805._SY75_.jpg
+893,The Marriage Portrait,Maggie O'Farrell (Goodreads Author),4.01,172917,10852,114,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655741851i/60353768._SX50_.jpg
+894,"A Darker Shade of Magic (Shades of Magic, #1)",Victoria E. Schwab (Goodreads Author),4.04,395241,10819,123,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400322851i/22055262._SY75_.jpg
+895,"The Edge of Never (The Edge of Never, #1)",J.A. Redmerski,4.22,149386,10786,126,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358810128i/16081272._SY75_.jpg
+896,"Keeper of the Lost Cities (Keeper of the Lost Cities, #1)",Shannon Messenger (Goodreads Author),4.40,93833,10765,118,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326469854i/12842828._SX50_.jpg
+897,Cryptonomicon,Neal Stephenson (Goodreads Author),4.23,114623,10760,129,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327931476i/816._SY75_.jpg
+898,Naked Lunch,William S. Burroughs,3.46,95168,10737,133,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407330990i/7437._SY75_.jpg
+899,"Lover Avenged (Black Dagger Brotherhood, #7)",J.R. Ward (Goodreads Author),4.36,117770,10710,143,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321039998i/5098079._SY75_.jpg
+900,An Abundance of Katherines,John Green (Goodreads Author),3.51,540162,10691,132,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360206426i/49750._SY75_.jpg
+901,"Haunting Adeline (Cat and Mouse, #1)",H.D. Carlton (Goodreads Author),3.96,682450,10655,113,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628900532i/58763686._SX50_.jpg
+902,"Small Gods (Discworld, #13)",Terry Pratchett,4.32,127203,10613,135,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390899426i/34484._SY75_.jpg
+903,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.16,781374,10581,152,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784i/36072._SY75_.jpg
+904,Still Alice,Lisa Genova (Goodreads Author),4.32,350726,10511,134,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1236089972i/2153405._SY75_.jpg
+905,"Mary Poppins (Mary Poppins, #1)",P.L. Travers,4.01,137094,10508,192,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704135408i/152380._SX50_.jpg
+905,"Fire (Graceling Realm, #2)",Kristin Cashore,4.10,190484,10508,142,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331535456i/6137154._SY75_.jpg
+907,The Moon Is a Harsh Mistress,Robert A. Heinlein,4.15,134784,10479,134,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348768309i/16690._SY75_.jpg
+908,Jude the Obscure,Thomas Hardy,3.83,73769,10470,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389403264i/50798._SY75_.jpg
+909,"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas (Goodreads Author),4.21,877298,10455,128,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384362444i/18243700._SX50_.jpg
+910,"Mort (Discworld, #4; Death, #1)",Terry Pratchett,4.24,258700,10448,138,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388181166i/386372._SY75_.jpg
+911,Stoner,John Williams,4.34,198081,10393,116,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320600716i/166997._SY75_.jpg
+912,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan (Goodreads Author),4.19,207582,10387,137,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393804353i/3109._SY75_.jpg
+912,Chasing the Devil: The Search for Africa's Fighting Spirit,Tim Butcher (Goodreads Author),4.13,1911,10387,106,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310975260i/7940583._SY75_.jpg
+914,My Name Is Asher Lev,Chaim Potok,4.24,42414,10376,141,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385056726i/11507._SY75_.jpg
+915,Let the Right One In,John Ajvide Lindqvist,4.04,116228,10349,127,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327893384i/943402._SY75_.jpg
+916,The Namesake,Jhumpa Lahiri,4.02,276626,10310,145,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480106986i/33917._SY75_.jpg
+917,"The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams,4.20,302777,10255,147,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881i/8695._SY75_.jpg
+918,Choke,Chuck Palahniuk (Goodreads Author),3.71,216024,10237,134,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624579622i/29059._SY75_.jpg
+919,The Portrait of a Lady,Henry James,3.79,83065,10227,151,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502148606i/264._SY75_.jpg
+920,Howards End,E.M. Forster,3.96,92109,10212,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518837828i/38374795._SX50_.jpg
+921,"The Well of Ascension (Mistborn, #2)",Brandon Sanderson (Goodreads Author),4.39,548468,10190,120,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619538925i/68429._SY75_.jpg
+922,Wild Swans: Three Daughters of China,Jung Chang,4.29,117496,10175,138,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440643710i/1848._SX50_.jpg
+923,I Am the Messenger,Markus Zusak (Goodreads Author),4.03,165355,10159,121,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398483261i/19057._SY75_.jpg
+924,"Worm Holes (Quantum Roots, #2)",Kyle Keyes (Goodreads Author),4.34,2115,10073,112,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487896475i/34384161._SX50_.jpg
+925,"Finale (Hush, Hush, #4)",Becca Fitzpatrick (Goodreads Author),4.12,181701,10047,127,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362408156i/12751687._SY75_.jpg
+926,The Forgotten Garden,Kate Morton (Goodreads Author),4.15,229802,10031,128,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547843777i/3407877._SY75_.jpg
+927,"The Hunt for Red October (Jack Ryan, #3)",Tom Clancy,4.11,381635,10002,148,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281995542i/19691._SX50_.jpg
+927,"The Eden Paradox (Eden Paradox, #1)",Barry Kirwan (Goodreads Author),4.22,16212,10002,110,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548629676i/43722869._SY75_.jpg
+929,The Three Witches and the Master,Max Nowaz (Goodreads Author),4.31,18376,9946,105,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684157728i/156150514._SY75_.jpg
+930,"Winter (The Lunar Chronicles, #4)",Marissa Meyer (Goodreads Author),4.42,295823,9942,120,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470057036i/13206900._SX50_.jpg
+931,Between Shades of Gray,Ruta Sepetys (Goodreads Author),4.37,259006,9905,121,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873479i/7824322._SX50_.jpg
+932,"Linger (The Wolves of Mercy Falls, #2)",Maggie Stiefvater (Goodreads Author),3.88,172867,9894,134,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1292482391i/6654313._SY75_.jpg
+933,The Sea of Tranquility,Katja Millay (Goodreads Author),4.29,87639,9844,114,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465919812i/16151178._SY75_.jpg
+934,The Bridges of Madison County,Robert James Waller,3.70,101689,9833,156,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267141i/83674._SY75_.jpg
+935,"Deeper Than the Dead (Vera Boyett, #1)",Debra Webb (Goodreads Author),4.05,17623,9776,103,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702516655i/198190467._SY75_.jpg
+936,Tender Is the Night,F. Scott Fitzgerald,3.78,142549,9747,142,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559763775i/46164._SY75_.jpg
+937,Survivor,Chuck Palahniuk (Goodreads Author),3.93,121258,9732,122,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523531504i/36236123._SY75_.jpg
+938,Ethan Frome,Edith Wharton,3.45,132209,9685,142,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701588541i/5246._SY75_.jpg
+939,Pale Fire,Vladimir Nabokov,4.17,54074,9653,124,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388155863i/7805._SY75_.jpg
+940,"Forrest Gump (Forrest Gump, #1)",Winston Groom,4.02,70426,9631,157,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385313197i/186190._SY75_.jpg
+941,Exodus,Leon Uris,4.34,100513,9626,154,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568189223i/42697._SY75_.jpg
+942,Gift from the Sea,Anne Morrow Lindbergh,4.14,53474,9577,137,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328312670i/77295._SY75_.jpg
+943,Hello Beautiful,Ann Napolitano (Goodreads Author),4.15,434970,9572,100,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687803098i/61771675._SY75_.jpg
+944,The Fall,Albert Camus,4.04,119455,9565,124,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467904855i/11991._SY75_.jpg
+945,"84, Charing Cross Road",Helene Hanff,4.16,89457,9531,140,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662637640i/368916._SY75_.jpg
+946,"Walking Disaster (Beautiful, #2)",Jamie McGuire (Goodreads Author),4.14,201808,9529,117,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352338368i/15745950._SY75_.jpg
+947,Illusions: The Adventures of a Reluctant Messiah,Richard Bach (Goodreads Author),4.15,65292,9517,123,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353964306i/29946._SY75_.jpg
+948,"Daughter of the Forest (Sevenwaters, #1)",Juliet Marillier (Goodreads Author),4.29,68058,9511,115,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343589988i/13928._SY75_.jpg
+949,"Absalom, Absalom!",William Faulkner,3.98,46072,9505,124,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388474680i/373755._SY75_.jpg
+950,"Kane & Abel (Kane & Abel, #1)",Jeffrey Archer (Goodreads Author),4.34,126289,9481,112,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388965561i/78983._SY75_.jpg
+951,The Maltese Falcon,Dashiell Hammett,3.87,110981,9475,143,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689040081i/29999._SY75_.jpg
+952,Revolutionary Road,Richard Yates,3.93,90659,9459,124,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650108910i/48328._SY75_.jpg
+953,"The Reckoning (Darkest Powers, #3)",Kelley Armstrong (Goodreads Author),4.18,117907,9456,125,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327154591i/6468666._SY75_.jpg
+954,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.28,456310,9429,130,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432487272i/23878688._SY75_.jpg
+955,A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,4.07,425644,9424,131,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388189974i/9791._SY75_.jpg
+956,"A Study in Scarlet (Sherlock Holmes, #1)",Arthur Conan Doyle,4.14,469881,9420,144,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519031842i/102868._SX50_.jpg
+957,Turtles All the Way Down,John Green (Goodreads Author),3.88,609060,9415,108,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503002776i/35504431._SY75_.jpg
+958,A Room of One’s Own,Virginia Woolf,4.22,231262,9407,135,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883012i/18521._SY75_.jpg
+959,"The City of Ember (Book of Ember, #1)",Jeanne DuPrau,3.90,290811,9406,132,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591616783i/307791._SX50_.jpg
+960,Thus Spoke Zarathustra,Friedrich Nietzsche,4.07,162879,9401,114,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650680683i/51893._SY75_.jpg
+961,"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas (Goodreads Author),4.47,2195961,9379,106,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585623092i/50659472._SX50_.jpg
+962,The Sorrows of Young Werther,Johann Wolfgang von Goethe,3.69,142357,9361,119,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920896i/16640._SY75_.jpg
+963,"The Awakening (Darkest Powers, #2)",Kelley Armstrong (Goodreads Author),4.14,116838,9344,125,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478986806i/5391115._SY75_.jpg
+963,On Earth We're Briefly Gorgeous,Ocean Vuong,4.03,345679,9344,101,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615580168i/41880609._SX50_.jpg
+963,Nausea,Jean-Paul Sartre,3.94,128689,9344,122,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377674928i/298275._SY75_.jpg
+966,"Specials (Uglies, #3)",Scott Westerfeld (Goodreads Author),3.75,198556,9326,132,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390340887i/24765._SX50_.jpg
+967,"Dead as a Doornail (Sookie Stackhouse, #5)",Charlaine Harris (Goodreads Author),4.01,221784,9308,136,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468562419i/170210._SY75_.jpg
+968,"The Amulet of Samarkand (Bartimaeus, #1)",Jonathan Stroud (Goodreads Author),4.04,131720,9306,113,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528705815i/334123._SX50_.jpg
+969,"The Ballad of Never After (Once Upon a Broken Heart, #2)",Stephanie Garber (Goodreads Author),4.50,339311,9300,99,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716011416i/59808071._SY75_.jpg
+970,Where the Heart Is,Billie Letts,4.04,250777,9289,142,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327959469i/5168._SY75_.jpg
+971,Cold Sassy Tree,Olive Ann Burns,4.02,104335,9270,132,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722549809i/40389231._SX50_.jpg
+972,"The Millennium Trilogy (Millennium Trilogy, #1-3)",Stieg Larsson,4.47,56560,9249,124,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275608877i/7822895._SX50_.jpg
+973,Deception Point,Dan Brown (Goodreads Author),3.76,684457,9221,122,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551277487i/976._SY75_.jpg
+974,The Hotel New Hampshire,John Irving (Goodreads Author),3.93,67146,9207,132,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318013543i/11768._SY75_.jpg
+975,"On Her Watch (Bree Taggert, #8)",Melinda Leigh (Goodreads Author),4.51,15222,9205,97,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653498055i/61138863._SY75_.jpg
+976,Shakespeare's Sonnets,William Shakespeare,4.25,108445,9188,149,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660269733i/42038._SY75_.jpg
+977,"From Blood and Ash (Blood and Ash, #1)",Jennifer L. Armentrout (Goodreads Author),4.22,708940,9159,100,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734440654i/52831200._SY75_.jpg
+978,"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris (Goodreads Author),4.01,208322,9141,136,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468562748i/140079._SY75_.jpg
+979,Marked by Magic (Tracking Trouble #1),Lindsay Buroker (Goodreads Author),4.32,4564,9133,96,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698869205i/201272400._SY75_.jpg
+980,The Fountainhead,Ayn Rand,3.89,330110,9132,113,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491163636i/2122._SY75_.jpg
+981,We,Yevgeny Zamyatin,3.88,103509,9057,115,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627438181i/76171._SY75_.jpg
+982,The Gargoyle,Andrew Davidson (Goodreads Author),3.97,50016,9054,110,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368598513i/2595138._SY75_.jpg
+983,"The Sparrow (The Sparrow, #1)",Mary Doria Russell (Goodreads Author),4.14,78705,9045,112,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1230829367i/334176._SY75_.jpg
+984,"Reflected in You (Crossfire, #2)",Sylvia Day (Goodreads Author),4.30,359033,9037,111,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477802540i/13596809._SX50_.jpg
+985,"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",Laurell K. Hamilton (Goodreads Author),4.02,150961,9024,122,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388207930i/30281._SY75_.jpg
+986,"The Golden Lily (Bloodlines, #2)",Richelle Mead (Goodreads Author),4.31,120483,9017,122,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360599818i/8709523._SY75_.jpg
+987,"Dreamfever (Fever, #4)",Karen Marie Moning (Goodreads Author),4.38,104363,9016,114,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429621657i/6050298._SY75_.jpg
+988,"Breaking Dawn (The Twilight Saga, #4)",Stephenie Meyer,3.75,1790163,9015,123,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039438i/1162543._SY75_.jpg
+989,"Gabriel's Inferno (Gabriel's Inferno, #1)",Sylvain Reynard (Goodreads Author),3.98,159892,9001,106,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301789770i/10140661._SY75_.jpg
+990,"The Mysterious Benedict Society (The Mysterious Benedict Society, #1)",Trenton Lee Stewart (Goodreads Author),4.20,168170,8997,111,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529611235i/40605329._SY75_.jpg
+991,A Million Little Pieces,James Frey,3.69,258482,8994,118,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483206985i/1241._SY75_.jpg
+992,"Opal (Lux, #3)",Jennifer L. Armentrout (Goodreads Author),4.24,155591,8992,116,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553011318i/13362536._SY75_.jpg
+993,Travels with Charley: In Search of America,John Steinbeck,4.08,100401,8973,100,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924381i/5306._SY75_.jpg
+994,A Connecticut Yankee in King Arthur's Court,Mark Twain,3.77,105600,8969,140,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348239402i/162898._SY75_.jpg
+995,The Immortal Life of Henrietta Lacks,Rebecca Skloot (Goodreads Author),4.12,767577,8951,120,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144i/6493208._SY75_.jpg
+996,"Burned (House of Night, #7)",P.C. Cast (Goodreads Author),3.97,161926,8925,129,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327944437i/6917952._SY75_.jpg
+997,"Crank (Crank, #1)",Ellen Hopkins (Goodreads Author),4.16,150826,8912,112,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388192181i/270730._SX50_.jpg
+998,The Brief Wondrous Life of Oscar Wao,Junot Díaz,3.89,271363,8899,118,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391409748i/297673._SY75_.jpg
+999,"Wizard and Glass (The Dark Tower, #4)",Stephen King (Goodreads Author),4.27,209245,8895,117,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327946510i/5096._SY75_.jpg
+1000,"The Mercy of Gods (The Captive’s War, #1)",James S.A. Corey (Goodreads Author),4.20,20877,8894,93,https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725128722i/201930181._SY75_.jpg

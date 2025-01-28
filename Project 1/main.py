@@ -3,6 +3,7 @@ import numpy as np
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 import time
 
 # store unique length of row // it will help to know if there are any missing data 
@@ -13,7 +14,10 @@ def get_book_details(book):
     global unique_lengths
 
     details = book.text.split('\n')
-    # title = book.find_element(By.CLASS_NAME, 'bookTitle').text
+    image = book.find_element(By.CLASS_NAME, 'bookCover')
+
+    # print(details, '\n')
+
     unique_lengths.add(len(details))
 
     if len(details) == 12:
@@ -23,8 +27,15 @@ def get_book_details(book):
 
     content['Rank']  = details[0]
     content['Title'] = details[1]
-    content['Author']= details[2]
-    content['Rating']= details[4]
+    content['Author']= details[2].replace('by ', '')
+    content['Rating']= details[4].split()[0]
+    content['Rating Count']= details[4].split()[4].replace(',','')
+    content['Score'] = details[5].split()[1].replace(',','')
+    content['People Voted'] = details[5].split()[3].replace(',','')
+
+    content['Image'] = image.get_attribute('src')
+
+    # print(content)
     
     
 
@@ -37,9 +48,10 @@ def main():
     url = 'https://www.goodreads.com/list/show/1.Best_Books_Ever'
       
 
-    columns = ['Rank', 'Title', 'Author', 'Rating']
+    columns = ['Rank', 'Title', 'Author', 'Rating', 'Rating Count', 'Score', 'People Voted', 'Image']
 
-    for pageId in range(1, 10):
+    for pageId in range(1, 11):
+        print(f'----------  Loading data for page {pageId}  ----------')
         siteUrl = f'{url}?page={pageId}'
 
         driver = webdriver.Chrome()  
@@ -50,16 +62,12 @@ def main():
         rows = table_body.find_elements(By.XPATH, './tr')
 
         for idx, row in enumerate(rows):
-            book_details.append(get_book_details(row))
-
-        print(f'---------> page: {pageId}, different types of length (tr): ', unique_lengths)
-
-        if pageId == 2:
-            break
+            book_details.append(get_book_details(row))                    
 
         driver.close()
 
 
+    print(f'---------> page: {pageId}, different types of length (tr): ', unique_lengths)
 
 
     df = pd.DataFrame(data=book_details, columns=columns)
